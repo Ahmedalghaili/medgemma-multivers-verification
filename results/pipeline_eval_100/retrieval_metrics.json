@@ -1,0 +1,18 @@
+{
+  "n_claims": 100,
+  "model": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+  "metrics": {
+    "tfidf": {
+      "recall_at_1": 0.25,
+      "recall_at_3": 0.46,
+      "recall_at_5": 0.52,
+      "recall_at_10": 0.57
+    },
+    "semantic": {
+      "recall_at_1": 0.04,
+      "recall_at_3": 0.1,
+      "recall_at_5": 0.17,
+      "recall_at_10": 0.27
+    }
+  }
+}

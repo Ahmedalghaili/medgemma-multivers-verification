@@ -1,0 +1,187 @@
+{"id": 0, "claim": "Fever may be a symptom of influenza in adults.", "doc_ids": [30, 238, 193, 154, 149], "retrieval": "semantic"}
+{"id": 1, "claim": "Cough may be a symptom of influenza in adults.", "doc_ids": [30, 154, 9, 10, 318], "retrieval": "semantic"}
+{"id": 2, "claim": "Sore throat may be a symptom of influenza in adults.", "doc_ids": [30, 283, 42, 318, 302], "retrieval": "semantic"}
+{"id": 3, "claim": "Muscle aches may be a symptom of influenza in adults.", "doc_ids": [30, 34, 149, 9, 59], "retrieval": "semantic"}
+{"id": 4, "claim": "Antihistamines can cause drowsiness", "doc_ids": [193, 30, 36, 311, 26], "retrieval": "semantic"}
+{"id": 5, "claim": "Metformin can cause gastrointestinal side effects", "doc_ids": [70, 261, 42, 203, 7], "retrieval": "semantic"}
+{"id": 6, "claim": "Regular physical activity is associated with a reduced risk of heart disease", "doc_ids": [41, 186, 36, 272, 271], "retrieval": "semantic"}
+{"id": 7, "claim": "vaccination is a well-established method for reducing the risk of influenza", "doc_ids": [326, 165, 166, 121, 27], "retrieval": "semantic"}
+{"id": 8, "claim": "Maintaining a healthy weight can help prevent high blood pressure", "doc_ids": [99, 186, 203, 33, 323], "retrieval": "semantic"}
+{"id": 9, "claim": "Eating a balanced diet low in sodium and saturated fat can help prevent high blood pressure", "doc_ids": [327, 186, 43, 33, 203], "retrieval": "semantic"}
+{"id": 10, "claim": "Engaging in regular physical activity can help prevent high blood pressure", "doc_ids": [33, 41, 100, 186, 93], "retrieval": "semantic"}
+{"id": 11, "claim": "Limiting alcohol consumption can help prevent high blood pressure", "doc_ids": [33, 147, 178, 306, 323], "retrieval": "semantic"}
+{"id": 12, "claim": "handwashing can reduce the spread of infectious diseases", "doc_ids": [329, 61, 178, 49, 309], "retrieval": "semantic"}
+{"id": 13, "claim": "smoking cessation can significantly improve health", "doc_ids": [320, 175, 178, 312, 30], "retrieval": "semantic"}
+{"id": 14, "claim": "Excessive sun exposure can damage the skin", "doc_ids": [164, 90, 199, 209, 96], "retrieval": "semantic"}
+{"id": 15, "claim": "**Vaccination:** Stay up-to-date with recommended COVID-19 vaccines and boosters.", "doc_ids": [222, 242, 28, 5, 165], "retrieval": "semantic"}
+{"id": 16, "claim": "**Masking:** Wear a high-quality mask (e.g., N95, KN95) in indoor public settings, especially when transmission rates are high.", "doc_ids": [227, 39, 195, 152, 15], "retrieval": "semantic"}
+{"id": 17, "claim": "**Ventilation:** Improve ventilation in indoor spaces by opening windows or using air purifiers.", "doc_ids": [40, 41, 39, 227, 72], "retrieval": "semantic"}
+{"id": 18, "claim": "**Social Distancing:** Maintain physical distance from others, especially those who are sick.", "doc_ids": [105, 240, 268, 279, 177], "retrieval": "semantic"}
+{"id": 19, "claim": "Cough (may produce mucus, which can be green, yellow, or bloody).", "doc_ids": [30, 42, 10, 9, 154], "retrieval": "semantic"}
+{"id": 20, "claim": "Chest pain (may worsen when breathing or coughing).", "doc_ids": [30, 318, 154, 95, 272], "retrieval": "semantic"}
+{"id": 21, "claim": "Confusion (especially in older adults).", "doc_ids": [30, 96, 288, 212, 42], "retrieval": "semantic"}
+{"id": 22, "claim": "Seasonal allergies, also known as hay fever, can cause a variety of symptoms.", "doc_ids": [128, 30, 283, 302, 180], "retrieval": "semantic"}
+{"id": 23, "claim": "Runny or stuffy nose.", "doc_ids": [283, 75, 200, 235, 42], "retrieval": "semantic"}
+{"id": 24, "claim": "Itchy eyes, nose, or throat.", "doc_ids": [283, 162, 42, 30, 34], "retrieval": "semantic"}
+{"id": 25, "claim": "Skin rash or hives.", "doc_ids": [164, 128, 318, 197, 144], "retrieval": "semantic"}
+{"id": 26, "claim": "Areas of darkened skin, usually in the armpits and neck (acanthosis nigricans).", "doc_ids": [162, 283, 34, 90, 59], "retrieval": "semantic"}
+{"id": 27, "claim": "High blood pressure often has no symptoms, which is why it's sometimes called a \"silent killer.\" Some people may experience symptoms such as severe headaches, nosebleeds, fatigue, vision problems, or chest pain, but these symptoms can also be caused by other conditions.", "doc_ids": [59, 34, 323, 191, 283], "retrieval": "semantic"}
+{"id": 28, "claim": "Wheezing (a whistling sound when breathing).", "doc_ids": [283, 10, 9, 154, 81], "retrieval": "semantic"}
+{"id": 29, "claim": "Common symptoms of iron deficiency can include fatigue, weakness, pale skin, shortness of breath, headache, dizziness, cold hands and feet, brittle nails, and pica (craving non-food items).", "doc_ids": [30, 34, 197, 42, 149], "retrieval": "semantic"}
+{"id": 30, "claim": "**Sudden numbness or weakness** of the face, arm, or leg, especially on one side of the body.", "doc_ids": [34, 42, 155, 30, 283], "retrieval": "semantic"}
+{"id": 31, "claim": "**Sudden confusion,** trouble speaking, or difficulty understanding speech.", "doc_ids": [42, 30, 154, 63, 37], "retrieval": "semantic"}
+{"id": 32, "claim": "**Sudden trouble seeing** in one or both eyes.", "doc_ids": [278, 168, 112, 283, 42], "retrieval": "semantic"}
+{"id": 33, "claim": "**Sudden trouble walking,** dizziness, loss of balance, or lack of coordination.", "doc_ids": [34, 42, 30, 283, 260], "retrieval": "semantic"}
+{"id": 34, "claim": "Headache (often throbbing or pulsating).", "doc_ids": [30, 34, 110, 96, 10], "retrieval": "semantic"}
+{"id": 35, "claim": "Sensitivity to light (photophobia).", "doc_ids": [90, 155, 21, 42, 30], "retrieval": "semantic"}
+{"id": 36, "claim": "Sensitivity to sound (phonophobia).", "doc_ids": [42, 162, 155, 283, 30], "retrieval": "semantic"}
+{"id": 37, "claim": "Visual disturbances (aura) - may include flashing lights, zigzag lines, or blind spots.", "doc_ids": [42, 90, 34, 283, 162], "retrieval": "semantic"}
+{"id": 38, "claim": "Influenza is usually treated with antiviral medications, such as oseltamivir (Tamiflu), zanamivir (Relenza), peramivir (Rapivab), or baloxavir marboxil (Xofluza).", "doc_ids": [156, 169, 5, 133, 137], "retrieval": "semantic"}
+{"id": 39, "claim": "These medications can reduce the severity and duration of symptoms if started within 48 hours of symptom onset.", "doc_ids": [71, 172, 135, 76, 244], "retrieval": "semantic"}
+{"id": 40, "claim": "Supportive care, such as rest, fluids, and over-the-counter medications to relieve fever and aches, is also important.", "doc_ids": [30, 193, 36, 148, 188], "retrieval": "semantic"}
+{"id": 41, "claim": "Commonly used treatments for asthma include inhaled corticosteroids (ICS), long-acting beta-agonists (LABA), short-acting beta-agonists (SABA), leukotriene modifiers, and oral corticosteroids.", "doc_ids": [118, 306, 33, 36, 5], "retrieval": "semantic"}
+{"id": 42, "claim": "The specific treatment plan depends on the severity of the asthma and individual patient factors.", "doc_ids": [30, 118, 135, 175, 306], "retrieval": "semantic"}
+{"id": 43, "claim": "Type 2 diabetes management typically involves a combination of lifestyle modifications and, if needed, medication.", "doc_ids": [7, 261, 5, 188, 327], "retrieval": "semantic"}
+{"id": 44, "claim": "Lifestyle changes often include diet and exercise.", "doc_ids": [186, 327, 188, 43, 203], "retrieval": "semantic"}
+{"id": 45, "claim": "Medication may be prescribed to help control blood sugar levels.", "doc_ids": [188, 265, 261, 48, 248], "retrieval": "semantic"}
+{"id": 46, "claim": "Bacterial pneumonia treatment typically involves antibiotics.", "doc_ids": [5, 252, 35, 30, 29], "retrieval": "semantic"}
+{"id": 47, "claim": "The specific antibiotic and duration of treatment will depend on the type of bacteria causing the infection, the severity of the illness, and the patient's overall health.", "doc_ids": [5, 48, 76, 66, 71], "retrieval": "semantic"}
+{"id": 48, "claim": "Supportive care, such as rest, fluids, and pain relievers, is also important.", "doc_ids": [30, 118, 193, 137, 188], "retrieval": "semantic"}
+{"id": 49, "claim": "Treatment for high cholesterol typically involves a combination of lifestyle modifications and, in some cases, medication.", "doc_ids": [31, 294, 188, 261, 6], "retrieval": "semantic"}
+{"id": 50, "claim": "**Dietary changes:** Reducing saturated and trans fats, cholesterol, and sodium intake, while increasing fiber intake.", "doc_ids": [327, 43, 188, 186, 203], "retrieval": "semantic"}
+{"id": 51, "claim": "**Regular exercise:** Aiming for at least 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity aerobic exercise per week.", "doc_ids": [135, 325, 281, 244, 133], "retrieval": "semantic"}
+{"id": 52, "claim": "**Weight management:** Achieving and maintaining a healthy weight.", "doc_ids": [61, 142, 24, 43, 261], "retrieval": "semantic"}
+{"id": 53, "claim": "Migraine treatments aim to relieve pain and other symptoms, and to prevent future attacks.", "doc_ids": [30, 193, 76, 48, 36], "retrieval": "semantic"}
+{"id": 54, "claim": "**Acute (Abortive) Medications:** These are taken at the first sign of a migraine to stop it from progressing.", "doc_ids": [193, 36, 199, 252, 30], "retrieval": "semantic"}
+{"id": 55, "claim": "Examples include triptans (e.g., sumatriptan, rizatriptan), ergotamines (e.g., ergotamine tartrate), and nonsteroidal anti-inflammatory drugs (NSAIDs) (e.g., ibuprofen, naproxen).", "doc_ids": [137, 199, 36, 306, 265], "retrieval": "semantic"}
+{"id": 56, "claim": "**Preventive Medications:** These are taken regularly to reduce the frequency and severity of migraines.", "doc_ids": [193, 137, 111, 248, 76], "retrieval": "semantic"}
+{"id": 57, "claim": "Gastroesophageal reflux disease (GERD) management typically involves a combination of lifestyle modifications and medications.", "doc_ids": [261, 31, 5, 248, 265], "retrieval": "semantic"}
+{"id": 58, "claim": "**Dietary changes:** Avoiding trigger foods (e.g., caffeine, alcohol, spicy foods, fatty foods), eating smaller meals, and avoiding eating close to bedtime.", "doc_ids": [188, 327, 75, 186, 203], "retrieval": "semantic"}
+{"id": 59, "claim": "**Weight loss:** If overweight or obese.", "doc_ids": [203, 186, 30, 24, 61], "retrieval": "semantic"}
+{"id": 60, "claim": "**Elevating the head of the bed:** Using blocks or a wedge to raise the head of the bed.", "doc_ids": [30, 148, 219, 61, 72], "retrieval": "semantic"}
+{"id": 61, "claim": "Eczema treatments aim to relieve symptoms and prevent flares.", "doc_ids": [164, 193, 30, 311, 36], "retrieval": "semantic"}
+{"id": 62, "claim": "**Moisturizers:** Regular use of emollients helps hydrate the skin and reduce dryness.", "doc_ids": [178, 164, 329, 286, 203], "retrieval": "semantic"}
+{"id": 63, "claim": "**Topical Corticosteroids:** These medications reduce inflammation and itching.", "doc_ids": [199, 306, 137, 118, 36], "retrieval": "semantic"}
+{"id": 64, "claim": "They are typically used for short periods and under a doctor's supervision.", "doc_ids": [118, 234, 152, 178, 76], "retrieval": "semantic"}
+{"id": 65, "claim": "Osteoporosis treatment typically involves a combination of lifestyle modifications and medications.", "doc_ids": [118, 111, 30, 31, 327], "retrieval": "semantic"}
+{"id": 66, "claim": "Lifestyle changes include increasing calcium and vitamin D intake, engaging in weight-bearing exercises, and avoiding smoking and excessive alcohol consumption.", "doc_ids": [327, 188, 186, 43, 281], "retrieval": "semantic"}
+{"id": 67, "claim": "Medications used to treat osteoporosis include bisphosphonates, selective estrogen receptor modulators (SERMs), calcitonin, parathyroid hormone analogs, and denosumab.", "doc_ids": [118, 137, 169, 156, 36], "retrieval": "semantic"}
+{"id": 68, "claim": "The choice of medication depends on individual factors such as risk factors, bone density, and other medical conditions.", "doc_ids": [118, 199, 111, 188, 261], "retrieval": "semantic"}
+{"id": 69, "claim": "Treatment for urinary tract infections (UTIs) typically involves antibiotics.", "doc_ids": [33, 265, 261, 206, 48], "retrieval": "semantic"}
+{"id": 70, "claim": "The specific antibiotic and duration of treatment will depend on the type of bacteria causing the infection, the severity of the infection, and the patient's medical history.", "doc_ids": [48, 5, 66, 76, 71], "retrieval": "semantic"}
+{"id": 71, "claim": "Other treatments may include pain relievers to manage discomfort and increased fluid intake to help flush out the bacteria.", "doc_ids": [30, 193, 329, 137, 36], "retrieval": "semantic"}
+{"id": 72, "claim": "**Gastrointestinal issues:** Stomach pain, heartburn, nausea, vomiting, diarrhea, constipation, and ulcers.", "doc_ids": [30, 70, 261, 42, 82], "retrieval": "semantic"}
+{"id": 73, "claim": "**Cardiovascular issues:** Increased risk of heart attack or stroke, especially with long-term use or high doses.", "doc_ids": [223, 191, 82, 272, 199], "retrieval": "semantic"}
+{"id": 74, "claim": "**Kidney problems:** Can worsen existing kidney conditions or cause kidney damage in some individuals.", "doc_ids": [149, 223, 174, 128, 191], "retrieval": "semantic"}
+{"id": 75, "claim": "**Allergic reactions:** Skin rash, itching, hives, swelling, and difficulty breathing.", "doc_ids": [30, 283, 42, 21, 164], "retrieval": "semantic"}
+{"id": 76, "claim": "Common side effects of acetaminophen include nausea, vomiting, and stomach pain.", "doc_ids": [193, 199, 30, 36, 26], "retrieval": "semantic"}
+{"id": 77, "claim": "In rare cases, it can cause liver damage, especially at high doses or when combined with alcohol.", "doc_ids": [197, 118, 265, 147, 104], "retrieval": "semantic"}
+{"id": 78, "claim": "Antibiotics can cause a variety of side effects, ranging from mild to severe.", "doc_ids": [30, 66, 193, 48, 265], "retrieval": "semantic"}
+{"id": 79, "claim": "Common side effects include nausea, vomiting, diarrhea, and abdominal pain.", "doc_ids": [30, 193, 9, 70, 261], "retrieval": "semantic"}
+{"id": 80, "claim": "More serious side effects can include allergic reactions, yeast infections, and, in rare cases, more severe complications like *Clostridioides difficile* infection (C.", "doc_ids": [118, 128, 265, 209, 272], "retrieval": "semantic"}
+{"id": 81, "claim": "diff) or antibiotic-associated colitis.", "doc_ids": [118, 38, 199, 30, 135], "retrieval": "semantic"}
+{"id": 82, "claim": "Muscle pain, tenderness, or weakness (myalgia).", "doc_ids": [34, 30, 193, 42, 36], "retrieval": "semantic"}
+{"id": 83, "claim": "Increased blood sugar (hyperglycemia).", "doc_ids": [103, 197, 254, 7, 59], "retrieval": "semantic"}
+{"id": 84, "claim": "**Increased appetite and weight gain:** Corticosteroids can affect metabolism, leading to increased hunger and fat storage.", "doc_ids": [118, 234, 30, 203, 306], "retrieval": "semantic"}
+{"id": 85, "claim": "**Fluid retention:** This can cause swelling, particularly in the legs and ankles.", "doc_ids": [283, 149, 59, 128, 272], "retrieval": "semantic"}
+{"id": 86, "claim": "**High blood sugar (hyperglycemia):** Corticosteroids can increase blood glucose levels, which can be problematic for people with diabetes.", "doc_ids": [118, 234, 306, 128, 135], "retrieval": "semantic"}
+{"id": 87, "claim": "**High blood pressure (hypertension):** Corticosteroids can also raise blood pressure.", "doc_ids": [118, 234, 306, 33, 323], "retrieval": "semantic"}
+{"id": 88, "claim": "**Addiction and Dependence:** Opioids can be habit-forming, leading to physical and psychological dependence.", "doc_ids": [30, 63, 96, 42, 203], "retrieval": "semantic"}
+{"id": 89, "claim": "**Respiratory Depression:** Opioids can slow or stop breathing, which can be life-threatening, especially in overdose.", "doc_ids": [30, 118, 111, 36, 135], "retrieval": "semantic"}
+{"id": 90, "claim": "**Overdose:** Overdose can occur from taking too much opioid, especially when combined with other substances like alcohol or benzodiazepines.", "doc_ids": [30, 199, 189, 265, 26], "retrieval": "semantic"}
+{"id": 91, "claim": "**Constipation:** Opioids can cause severe constipation, which can be uncomfortable and lead to complications.", "doc_ids": [30, 199, 34, 42, 261], "retrieval": "semantic"}
+{"id": 92, "claim": "Warfarin interacts with many medications, supplements, and foods.", "doc_ids": [188, 199, 193, 265, 261], "retrieval": "semantic"}
+{"id": 93, "claim": "These interactions can affect warfarin's effectiveness or increase the risk of bleeding.", "doc_ids": [199, 193, 26, 189, 36], "retrieval": "semantic"}
+{"id": 94, "claim": "**Anticoagulants:** Combining warfarin with other anticoagulants (e.g., heparin, direct oral anticoagulants like rivaroxaban, apixaban, dabigatran) significantly increases the risk of bleeding.", "doc_ids": [199, 26, 189, 193, 137], "retrieval": "semantic"}
+{"id": 95, "claim": "**Antiplatelet drugs:** Medications like aspirin, clopidogrel (Plavix), and other antiplatelet drugs can also increase bleeding risk when taken with warfarin.", "doc_ids": [193, 199, 36, 26, 137], "retrieval": "semantic"}
+{"id": 96, "claim": "Common adverse effects of antidepressants can include nausea, insomnia, sexual dysfunction, weight changes, and dry mouth.", "doc_ids": [193, 30, 118, 199, 42], "retrieval": "semantic"}
+{"id": 97, "claim": "Some antidepressants can also increase the risk of bleeding, especially when taken with other medications that affect blood clotting.", "doc_ids": [193, 199, 26, 36, 189], "retrieval": "semantic"}
+{"id": 98, "claim": "Preventing respiratory infections involves a combination of personal hygiene practices, lifestyle choices, and, in some cases, vaccination.", "doc_ids": [39, 327, 121, 75, 72], "retrieval": "semantic"}
+{"id": 99, "claim": "**Hand hygiene:** Frequent and thorough handwashing with soap and water is crucial.", "doc_ids": [329, 178, 61, 309, 49], "retrieval": "semantic"}
+{"id": 100, "claim": "Use alcohol-based hand sanitizers when soap and water are not available.", "doc_ids": [329, 178, 309, 130, 275], "retrieval": "semantic"}
+{"id": 101, "claim": "**Respiratory etiquette:** Cover your mouth and nose with a tissue when coughing or sneezing.", "doc_ids": [160, 318, 283, 39, 75], "retrieval": "semantic"}
+{"id": 102, "claim": "Adults can reduce their risk of developing type 2 diabetes by adopting a healthy lifestyle.", "doc_ids": [186, 7, 327, 254, 185], "retrieval": "semantic"}
+{"id": 103, "claim": "This includes maintaining a healthy weight, eating a balanced diet rich in fruits, vegetables, and whole grains, engaging in regular physical activity, and avoiding smoking.", "doc_ids": [186, 327, 43, 203, 142], "retrieval": "semantic"}
+{"id": 104, "claim": "Limiting alcohol consumption is also recommended.", "doc_ids": [22, 257, 178, 124, 275], "retrieval": "semantic"}
+{"id": 105, "claim": "**Seek shade, especially during peak sun hours (10 AM to 4 PM).**.", "doc_ids": [172, 81, 244, 197, 90], "retrieval": "semantic"}
+{"id": 106, "claim": "**Wear protective clothing, such as long sleeves, pants, a wide-brimmed hat, and sunglasses.**.", "doc_ids": [152, 39, 57, 164, 72], "retrieval": "semantic"}
+{"id": 107, "claim": "**Use a broad-spectrum sunscreen with an SPF of 30 or higher, and apply it generously and reapply every two hours, or more often if swimming or sweating.**.", "doc_ids": [329, 172, 244, 164, 307], "retrieval": "semantic"}
+{"id": 108, "claim": "**Avoid tanning beds and sunlamps.**.", "doc_ids": [49, 40, 152, 90, 148], "retrieval": "semantic"}
+{"id": 109, "claim": "To reduce the risk of food poisoning, practice proper food handling techniques.", "doc_ids": [75, 329, 178, 188, 327], "retrieval": "semantic"}
+{"id": 110, "claim": "This includes washing hands thoroughly before preparing food, using separate cutting boards and utensils for raw and cooked foods, cooking food to safe internal temperatures, refrigerating perishable foods promptly, and avoiding cross-contamination.", "doc_ids": [329, 75, 178, 49, 61], "retrieval": "semantic"}
+{"id": 111, "claim": "Several lifestyle changes may improve sleep quality.", "doc_ids": [327, 203, 186, 43, 320], "retrieval": "semantic"}
+{"id": 112, "claim": "**Maintaining a regular sleep schedule:** Going to bed and waking up around the same time each day, even on weekends, can help regulate your body's natural sleep-wake cycle.", "doc_ids": [244, 172, 216, 205, 274], "retrieval": "semantic"}
+{"id": 113, "claim": "**Creating a relaxing bedtime routine:** This could include activities like taking a warm bath, reading a book, or listening to calming music.", "doc_ids": [30, 41, 327, 188, 39], "retrieval": "semantic"}
+{"id": 114, "claim": "**Optimizing your sleep environment:** Ensuring your bedroom is dark, quiet, and cool can promote better sleep.", "doc_ids": [41, 49, 40, 178, 327], "retrieval": "semantic"}
+{"id": 115, "claim": "**Cognitive Function:** Impaired attention, concentration, memory, and decision-making.", "doc_ids": [155, 42, 186, 118, 43], "retrieval": "semantic"}
+{"id": 116, "claim": "**Mood:** Increased irritability, anxiety, and risk of depression.", "doc_ids": [212, 96, 109, 30, 123], "retrieval": "semantic"}
+{"id": 117, "claim": "**Physical Health:** Weakened immune system, increased risk of chronic diseases like diabetes, heart disease, and obesity.", "doc_ids": [203, 186, 43, 209, 127], "retrieval": "semantic"}
+{"id": 118, "claim": "**Hormonal Imbalances:** Disruption of hormones that regulate appetite, metabolism, and growth.", "doc_ids": [8, 43, 142, 209, 203], "retrieval": "semantic"}
+{"id": 119, "claim": "**Cancer:** Increased risk of lung, throat, mouth, bladder, kidney, pancreas, stomach, cervix, and leukemia.", "doc_ids": [218, 191, 9, 127, 42], "retrieval": "semantic"}
+{"id": 120, "claim": "**Cardiovascular Disease:** Increased risk of heart disease, stroke, peripheral artery disease, and aortic aneurysm.", "doc_ids": [223, 191, 99, 103, 272], "retrieval": "semantic"}
+{"id": 121, "claim": "**Respiratory Diseases:** Chronic obstructive pulmonary disease (COPD), including emphysema and chronic bronchitis.", "doc_ids": [302, 30, 174, 59, 175], "retrieval": "semantic"}
+{"id": 122, "claim": "**Other Health Problems:** Weakened immune system, increased risk of infections, vision problems, and premature aging of the skin.", "doc_ids": [203, 43, 186, 209, 288], "retrieval": "semantic"}
+{"id": 123, "claim": "**Liver damage:** Alcohol is metabolized in the liver, and excessive consumption can lead to conditions like fatty liver, alcoholic hepatitis, and cirrhosis.", "doc_ids": [75, 209, 272, 147, 257], "retrieval": "semantic"}
+{"id": 124, "claim": "**Cardiovascular problems:** Heavy drinking can increase blood pressure, heart rate, and the risk of heart failure, stroke, and arrhythmias.", "doc_ids": [191, 323, 99, 147, 272], "retrieval": "semantic"}
+{"id": 125, "claim": "**Neurological effects:** Alcohol can damage the brain and nervous system, leading to problems with memory, coordination, and cognitive function.", "doc_ids": [147, 260, 257, 44, 96], "retrieval": "semantic"}
+{"id": 126, "claim": "It can also increase the risk of dementia.", "doc_ids": [185, 209, 191, 212, 109], "retrieval": "semantic"}
+{"id": 127, "claim": "Yes, a high-fiber diet is generally considered beneficial for health.", "doc_ids": [327, 186, 43, 142, 329], "retrieval": "semantic"}
+{"id": 128, "claim": "It can contribute to improved digestive health, weight management, and potentially reduce the risk of certain chronic diseases.", "doc_ids": [327, 186, 203, 142, 43], "retrieval": "semantic"}
+{"id": 129, "claim": "However, the evidence is not always conclusive, and individual responses can vary.", "doc_ids": [203, 28, 27, 136, 118], "retrieval": "semantic"}
+{"id": 130, "claim": "**Improved cardiovascular health:** Walking can help lower blood pressure, improve cholesterol levels, and reduce the risk of heart disease and stroke.", "doc_ids": [186, 329, 41, 203, 188], "retrieval": "semantic"}
+{"id": 131, "claim": "**Weight management:** Walking burns calories and can help with weight loss or maintenance.", "doc_ids": [148, 188, 61, 327, 43], "retrieval": "semantic"}
+{"id": 132, "claim": "**Improved mood and mental health:** Walking can reduce stress, anxiety, and symptoms of depression.", "doc_ids": [30, 41, 212, 118, 109], "retrieval": "semantic"}
+{"id": 133, "claim": "**Reduced risk of chronic diseases:** Walking may help lower the risk of type 2 diabetes, certain types of cancer, and osteoporosis.", "doc_ids": [111, 327, 186, 209, 203], "retrieval": "semantic"}
+{"id": 134, "claim": "Yes, stress can affect physical health.", "doc_ids": [41, 96, 212, 293, 62], "retrieval": "semantic"}
+{"id": 135, "claim": "Increased heart rate and blood pressure.", "doc_ids": [323, 272, 99, 59, 233], "retrieval": "semantic"}
+{"id": 136, "claim": "Chronic stress can increase the risk of developing serious health conditions such as heart disease, stroke, diabetes, and depression.", "doc_ids": [272, 96, 191, 103, 82], "retrieval": "semantic"}
+{"id": 137, "claim": "Cardiovascular disease (e.g., heart disease, stroke).", "doc_ids": [174, 271, 82, 272, 103], "retrieval": "semantic"}
+{"id": 138, "claim": "Certain types of cancer (e.g., breast, colon, kidney).", "doc_ids": [218, 191, 9, 154, 59], "retrieval": "semantic"}
+{"id": 139, "claim": "Musculoskeletal problems (e.g., osteoarthritis).", "doc_ids": [30, 128, 34, 283, 149], "retrieval": "semantic"}
+{"id": 140, "claim": "Respiratory problems (e.g., sleep apnea).", "doc_ids": [283, 30, 302, 21, 318], "retrieval": "semantic"}
+{"id": 141, "claim": "**Reduced blood volume:** This can lead to lower blood pressure and reduced blood flow to vital organs.", "doc_ids": [59, 323, 272, 82, 174], "retrieval": "semantic"}
+{"id": 142, "claim": "**Impaired kidney function:** Kidneys may not be able to filter waste products effectively, leading to a buildup of toxins in the body.", "doc_ids": [149, 59, 204, 272, 75], "retrieval": "semantic"}
+{"id": 143, "claim": "**Electrolyte imbalances:** Dehydration can disrupt the balance of electrolytes like sodium, potassium, and chloride, which are essential for nerve and muscle function.", "doc_ids": [209, 34, 43, 327, 260], "retrieval": "semantic"}
+{"id": 144, "claim": "**Cognitive impairment:** Dehydration can affect concentration, memory, and overall mental function.", "doc_ids": [96, 30, 109, 118, 212], "retrieval": "semantic"}
+{"id": 145, "claim": "**Bone health:** Weakened bones (osteomalacia in adults, rickets in children), increased risk of fractures.", "doc_ids": [209, 30, 154, 43, 197], "retrieval": "semantic"}
+{"id": 146, "claim": "**Muscle weakness:** Muscle pain, aches, and weakness.", "doc_ids": [34, 30, 193, 36, 42], "retrieval": "semantic"}
+{"id": 147, "claim": "**Immune function:** Increased susceptibility to infections.", "doc_ids": [139, 186, 282, 204, 203], "retrieval": "semantic"}
+{"id": 148, "claim": "**Cardiovascular health:** Some studies suggest a link to increased risk of heart disease and hypertension, but more research is needed.", "doc_ids": [323, 99, 191, 223, 93], "retrieval": "semantic"}
+{"id": 149, "claim": "**Fasting Plasma Glucose (FPG) test:** Measures blood glucose after an overnight fast.", "doc_ids": [133, 269, 172, 155, 10], "retrieval": "semantic"}
+{"id": 150, "claim": "**A1C test (Glycated Hemoglobin):** Reflects average blood glucose levels over the past 2-3 months.", "doc_ids": [238, 10, 172, 155, 81], "retrieval": "semantic"}
+{"id": 151, "claim": "**Oral Glucose Tolerance Test (OGTT):** Measures blood glucose levels before and after drinking a sugary drink.", "doc_ids": [42, 155, 162, 289, 10], "retrieval": "semantic"}
+{"id": 152, "claim": "**Random Plasma Glucose (RPG) test:** Measures blood glucose at any time of day, without fasting.", "doc_ids": [133, 319, 234, 192, 183], "retrieval": "semantic"}
+{"id": 153, "claim": "High blood pressure is diagnosed based on multiple blood pressure readings taken on different days.", "doc_ids": [81, 323, 10, 241, 99], "retrieval": "semantic"}
+{"id": 154, "claim": "A diagnosis of hypertension is typically made when blood pressure consistently measures 130/80 mmHg or higher.", "doc_ids": [323, 99, 93, 81, 10], "retrieval": "semantic"}
+{"id": 155, "claim": "Several tests can help diagnose anemia.", "doc_ids": [281, 193, 197, 90, 10], "retrieval": "semantic"}
+{"id": 156, "claim": "**Complete Blood Count (CBC):** This is a standard test that measures the number of red blood cells, hemoglobin, and hematocrit.", "doc_ids": [10, 238, 81, 183, 172], "retrieval": "semantic"}
+{"id": 157, "claim": "It can help determine if anemia is present and provide clues about the underlying cause.", "doc_ids": [197, 90, 281, 209, 30], "retrieval": "semantic"}
+{"id": 158, "claim": "**Peripheral Blood Smear:** A blood sample is examined under a microscope to assess the size, shape, and color of red blood cells.", "doc_ids": [285, 204, 81, 10, 329], "retrieval": "semantic"}
+{"id": 159, "claim": "Pneumonia diagnosis typically involves a combination of medical history, physical examination, and diagnostic tests.", "doc_ids": [154, 17, 10, 271, 30], "retrieval": "semantic"}
+{"id": 160, "claim": "**Medical History:** The doctor will ask about symptoms like cough, fever, chills, shortness of breath, chest pain, and any underlying medical conditions.", "doc_ids": [30, 154, 10, 283, 9], "retrieval": "semantic"}
+{"id": 161, "claim": "**Physical Examination:** The doctor will listen to your lungs with a stethoscope to check for abnormal sounds like crackling or wheezing.", "doc_ids": [154, 30, 10, 283, 318], "retrieval": "semantic"}
+{"id": 162, "claim": "They will also assess your overall condition.", "doc_ids": [30, 96, 10, 203, 261], "retrieval": "semantic"}
+{"id": 163, "claim": "**Thyroid-Stimulating Hormone (TSH):** This is usually the first test performed.", "doc_ids": [25, 168, 10, 245, 81], "retrieval": "semantic"}
+{"id": 164, "claim": "TSH is produced by the pituitary gland and stimulates the thyroid to produce thyroid hormones.", "doc_ids": [143, 251, 321, 180, 318], "retrieval": "semantic"}
+{"id": 165, "claim": "Abnormal TSH levels can indicate an overactive or underactive thyroid.", "doc_ids": [197, 96, 212, 109, 10], "retrieval": "semantic"}
+{"id": 166, "claim": "**Free Thyroxine (Free T4):** This measures the amount of unbound, active T4 in the blood.", "doc_ids": [31, 51, 281, 118, 209], "retrieval": "semantic"}
+{"id": 167, "claim": "Asthma diagnosis involves a combination of medical history, physical examination, and lung function tests.", "doc_ids": [21, 154, 81, 155, 10], "retrieval": "semantic"}
+{"id": 168, "claim": "A doctor will ask about your symptoms, family history of asthma or allergies, and exposure to potential triggers.", "doc_ids": [30, 154, 10, 164, 21], "retrieval": "semantic"}
+{"id": 169, "claim": "A physical exam may include listening to your lungs for wheezing.", "doc_ids": [283, 30, 10, 154, 318], "retrieval": "semantic"}
+{"id": 170, "claim": "Lung function tests, such as spirometry, are used to measure how well your lungs are working.", "doc_ids": [155, 30, 21, 27, 75], "retrieval": "semantic"}
+{"id": 171, "claim": "**Colonoscopy:** A procedure where a flexible tube with a camera is inserted into the rectum to visualize the entire colon.", "doc_ids": [70, 219, 312, 329, 144], "retrieval": "semantic"}
+{"id": 172, "claim": "Polyps can be removed during the procedure.", "doc_ids": [219, 329, 231, 154, 17], "retrieval": "semantic"}
+{"id": 173, "claim": "**Fecal Immunochemical Test (FIT):** A stool test that detects blood in the stool, which can be a sign of polyps or cancer.", "doc_ids": [155, 10, 329, 30, 176], "retrieval": "semantic"}
+{"id": 174, "claim": "**Stool DNA Test (Cologuard):** A stool test that detects abnormal DNA and blood in the stool.", "doc_ids": [153, 81, 10, 183, 155], "retrieval": "semantic"}
+{"id": 175, "claim": "Osteoporosis is diagnosed through a combination of medical history, physical examination, and imaging tests.", "doc_ids": [10, 30, 34, 154, 231], "retrieval": "semantic"}
+{"id": 176, "claim": "**Medical History:** Your doctor will ask about your risk factors for osteoporosis, such as age, sex, family history, ethnicity, and lifestyle factors (e.g., diet, exercise, smoking, alcohol consumption).", "doc_ids": [191, 175, 246, 30, 127], "retrieval": "semantic"}
+{"id": 177, "claim": "They will also inquire about any previous fractures, especially hip fractures.", "doc_ids": [10, 30, 197, 231, 154], "retrieval": "semantic"}
+{"id": 178, "claim": "**Physical Examination:** A physical exam may include checking for signs of bone loss, such as a stooped posture or vertebral compression fractures.", "doc_ids": [30, 34, 231, 283, 10], "retrieval": "semantic"}
+{"id": 179, "claim": "Chest pain can be caused by a variety of conditions, some of which are life-threatening.", "doc_ids": [30, 271, 272, 82, 96], "retrieval": "semantic"}
+{"id": 180, "claim": "The tests used to investigate chest pain depend on the suspected cause and the individual's medical history.", "doc_ids": [30, 271, 10, 154, 252], "retrieval": "semantic"}
+{"id": 181, "claim": "**Electrocardiogram (ECG or EKG):** This test measures the electrical activity of the heart and can help detect heart attacks, arrhythmias, and other heart problems.", "doc_ids": [271, 233, 81, 272, 10], "retrieval": "semantic"}
+{"id": 182, "claim": "**Blood tests:** These tests can help identify signs of heart damage, infection, or other conditions that may be causing chest pain.", "doc_ids": [271, 30, 272, 252, 154], "retrieval": "semantic"}
+{"id": 183, "claim": "Doctors evaluate a possible stroke using a combination of methods to quickly assess the patient's condition and determine the type and severity of the stroke.", "doc_ids": [81, 191, 183, 260, 28], "retrieval": "semantic"}
+{"id": 184, "claim": "**Physical Examination:** This includes assessing the patient's level of consciousness, speech, vision, strength, coordination, and reflexes.", "doc_ids": [34, 30, 155, 10, 162], "retrieval": "semantic"}
+{"id": 185, "claim": "**Neurological Examination:** This involves a more detailed examination of the nervous system to identify any focal deficits, such as weakness or numbness on one side of the body.", "doc_ids": [34, 260, 155, 162, 283], "retrieval": "semantic"}
+{"id": 186, "claim": "**CT Scan:** A CT scan of the brain is often the first imaging test performed to rule out other conditions, such as a brain tumor or bleeding in the brain.", "doc_ids": [10, 154, 81, 183, 271], "retrieval": "semantic"}

@@ -1,0 +1,177 @@
+{"id": 0, "claim": "Wearing a face covering can reduce the risk of COVID-19 infection", "doc_ids": [72, 39, 164, 152, 317, 273, 102, 20, 40, 327], "retrieval": "semantic"}
+{"id": 1, "claim": "Marijuana can cause lung damage", "doc_ids": [320, 30, 209, 147, 118, 318, 59, 167, 175, 44], "retrieval": "semantic"}
+{"id": 2, "claim": "Edibles may reduce the risk of lung damage compared to smoking", "doc_ids": [320, 186, 327, 175, 203, 43, 142, 27, 188, 322], "retrieval": "semantic"}
+{"id": 3, "claim": "Tinctures may reduce the risk of lung damage compared to smoking", "doc_ids": [320, 175, 15, 57, 322, 118, 195, 209, 27, 253], "retrieval": "semantic"}
+{"id": 4, "claim": "Vaporizers may reduce the risk of lung damage compared to smoking", "doc_ids": [320, 102, 178, 309, 15, 124, 72, 195, 160, 20], "retrieval": "semantic"}
+{"id": 5, "claim": "COVID-19 can cause fever", "doc_ids": [66, 193, 149, 128, 302, 70, 265, 59, 82, 9], "retrieval": "semantic"}
+{"id": 6, "claim": "Acetaminophen (Tylenol) can help reduce fever", "doc_ids": [193, 36, 137, 30, 199, 26, 189, 244, 265, 274], "retrieval": "semantic"}
+{"id": 7, "claim": "Ibuprofen (Advil, Motrin) can help reduce fever", "doc_ids": [193, 36, 189, 26, 137, 199, 30, 118, 306, 261], "retrieval": "semantic"}
+{"id": 8, "claim": "Fever can be uncomfortable", "doc_ids": [30, 193, 197, 96, 59, 212, 128, 252, 149, 301], "retrieval": "semantic"}
+{"id": 9, "claim": "SARS-CoV-2, the virus that causes COVID-19, can survive on surfaces", "doc_ids": [321, 264, 21, 235, 282, 187, 302, 119, 165, 291], "retrieval": "semantic"}
+{"id": 10, "claim": "The amount of time it survives depends on factors like the type of surface, temperature, humidity, and the presence of other materials", "doc_ids": [235, 45, 264, 57, 307, 49, 249, 196, 25, 178], "retrieval": "semantic"}
+{"id": 11, "claim": "Nicotine patches may not offer protection against COVID-19", "doc_ids": [320, 175, 20, 248, 312, 306, 140, 188, 48, 15], "retrieval": "semantic"}
+{"id": 12, "claim": "Asymptomatic COVID-19 cases can spread the virus to others", "doc_ids": [221, 232, 113, 276, 260, 318, 225, 70, 9, 267], "retrieval": "semantic"}
+{"id": 13, "claim": "COVID-19 can cause spread", "doc_ids": [225, 236, 170, 50, 78, 302, 210, 318, 260, 149], "retrieval": "semantic"}
+{"id": 14, "claim": "COVID-19 may be associated with increased rates of depression", "doc_ids": [109, 212, 199, 96, 209, 62, 123, 82, 103, 272], "retrieval": "semantic"}
+{"id": 15, "claim": "COVID-19 may be associated with increased rates of anxiety", "doc_ids": [212, 109, 96, 123, 62, 64, 199, 82, 283, 209], "retrieval": "semantic"}
+{"id": 16, "claim": "College students may experience increased mental health concerns", "doc_ids": [96, 257, 212, 62, 123, 109, 131, 141, 285, 46], "retrieval": "semantic"}
+{"id": 17, "claim": "Social isolation may contribute to increased mental health concerns", "doc_ids": [131, 141, 212, 123, 109, 105, 62, 96, 64, 22], "retrieval": "semantic"}
+{"id": 18, "claim": "Gargling with warm water mixed with salt and vinegar is not an effective treatment for COVID-19", "doc_ids": [31, 48, 203, 216, 286, 274, 61, 23, 242, 244], "retrieval": "semantic"}
+{"id": 19, "claim": "There is no scientific evidence to support the claim that gargling with warm water mixed with salt and vinegar is an effective treatment for COVID-19", "doc_ids": [31, 48, 286, 61, 203, 216, 23, 244, 274, 242], "retrieval": "semantic"}
+{"id": 20, "claim": "COVID-19 can cause death in young people", "doc_ids": [271, 65, 97, 267, 150, 149, 174, 82, 12, 260], "retrieval": "semantic"}
+{"id": 21, "claim": "The risk of severe illness and death from COVID-19 is higher in young people who are unvaccinated or have underlying medical conditions", "doc_ids": [12, 65, 95, 97, 202, 154, 82, 267, 174, 271], "retrieval": "semantic"}
+{"id": 22, "claim": "Eating garlic may help prevent COVID-19 infection", "doc_ids": [203, 327, 31, 186, 142, 43, 209, 188, 216, 86], "retrieval": "semantic"}
+{"id": 23, "claim": "Garlic has antiviral properties", "doc_ids": [203, 316, 31, 108, 269, 104, 56, 186, 43, 184], "retrieval": "semantic"}
+{"id": 24, "claim": "More research is needed", "doc_ids": [73, 183, 136, 276, 319, 28, 316, 115, 154, 167], "retrieval": "semantic"}
+{"id": 25, "claim": "Ginger may help alleviate symptoms like nausea and vomiting", "doc_ids": [193, 30, 244, 31, 203, 142, 261, 274, 216, 199], "retrieval": "semantic"}
+{"id": 26, "claim": "Nausea and vomiting may be associated with COVID-19", "doc_ids": [82, 193, 199, 70, 260, 9, 174, 34, 265, 66], "retrieval": "semantic"}
+{"id": 27, "claim": "The evidence is limited", "doc_ids": [86, 28, 88, 43, 209, 281, 327, 1, 76, 136], "retrieval": "semantic"}
+{"id": 28, "claim": "More research is needed", "doc_ids": [73, 183, 136, 276, 319, 28, 316, 115, 154, 167], "retrieval": "semantic"}
+{"id": 29, "claim": "Sun exposure or temperatures above 25 degrees Celsius do not prevent COVID-19", "doc_ids": [249, 50, 52, 90, 134, 209, 40, 164, 264, 48], "retrieval": "semantic"}
+{"id": 30, "claim": "There is no established evidence that sun exposure or temperatures above 25 degrees Celsius prevent COVID-19", "doc_ids": [249, 50, 52, 209, 40, 90, 134, 164, 48, 264], "retrieval": "semantic"}
+{"id": 31, "claim": "Some studies have suggested a possible link between vitamin D levels and COVID-19 outcomes", "doc_ids": [86, 88, 51, 209, 281, 199, 31, 43, 327, 147], "retrieval": "semantic"}
+{"id": 32, "claim": "The evidence is not conclusive regarding the link between vitamin D levels and COVID-19 outcomes", "doc_ids": [51, 86, 88, 209, 199, 281, 147, 31, 191, 261], "retrieval": "semantic"}
+{"id": 33, "claim": "Ferrets can contract COVID-19", "doc_ids": [224, 236, 214, 87, 198, 101, 170, 222, 318, 302], "retrieval": "semantic"}
+{"id": 34, "claim": "COVID-19 can affect various organs, including the lungs", "doc_ids": [318, 59, 70, 237, 272, 82, 174, 97, 65, 291], "retrieval": "semantic"}
+{"id": 35, "claim": "The virus can also affect other organs, such as the heart, kidneys, brain, and gastrointestinal tract", "doc_ids": [318, 59, 70, 272, 237, 174, 82, 43, 203, 149], "retrieval": "semantic"}
+{"id": 36, "claim": "COVID-19 patients with severe illness may exhibit signs of a weakened immune system", "doc_ids": [282, 204, 1, 297, 139, 11, 66, 302, 260, 314], "retrieval": "semantic"}
+{"id": 37, "claim": "COVID-19 patients with severe illness may have a dysregulated immune response", "doc_ids": [1, 314, 85, 282, 204, 66, 250, 12, 128, 302], "retrieval": "semantic"}
+{"id": 38, "claim": "COVID-19 patients with severe illness may exhibit excessive inflammation (cytokine storm)", "doc_ids": [180, 255, 288, 197, 128, 143, 66, 85, 1, 302], "retrieval": "semantic"}
+{"id": 39, "claim": "COVID-19 patients with severe illness may have impaired ability to control the virus", "doc_ids": [66, 302, 276, 260, 149, 204, 318, 82, 48, 282], "retrieval": "semantic"}
+{"id": 40, "claim": "There is limited evidence to suggest that hot weather increases the risk of COVID-19 transmission", "doc_ids": [50, 52, 228, 249, 264, 82, 212, 59, 134, 81], "retrieval": "semantic"}
+{"id": 41, "claim": "Some studies have shown a possible association", "doc_ids": [157, 199, 127, 191, 86, 221, 103, 203, 139, 7], "retrieval": "semantic"}
+{"id": 42, "claim": "The virus that causes COVID-19 can survive on surfaces for varying amounts of time.", "doc_ids": [235, 282, 321, 302, 21, 70, 260, 78, 66, 264], "retrieval": "semantic"}
+{"id": 43, "claim": "The virus that causes COVID-19 can persist on some surfaces for hours or even days.", "doc_ids": [235, 282, 78, 321, 21, 70, 264, 50, 302, 168], "retrieval": "semantic"}
+{"id": 44, "claim": "Alcohol-based solutions are generally effective against SARS-CoV-2.", "doc_ids": [124, 309, 178, 316, 286, 169, 75, 156, 19, 166], "retrieval": "semantic"}
+{"id": 45, "claim": "Alcohol-based solutions with concentrations of at least 60% alcohol are effective.", "doc_ids": [178, 329, 309, 124, 286, 275, 325, 257, 135, 216], "retrieval": "semantic"}
+{"id": 46, "claim": "Children can get seriously ill from COVID-19", "doc_ids": [65, 97, 154, 267, 10, 95, 12, 202, 174, 318], "retrieval": "semantic"}
+{"id": 47, "claim": "Children are generally less likely to experience severe outcomes compared to adults", "doc_ids": [12, 65, 95, 154, 202, 267, 270, 97, 27, 10], "retrieval": "semantic"}
+{"id": 48, "claim": "Serious illness can occur in children", "doc_ids": [154, 65, 95, 267, 202, 97, 10, 12, 96, 270], "retrieval": "semantic"}
+{"id": 49, "claim": "It's important for children who are infected to be monitored by a healthcare professional", "doc_ids": [10, 154, 65, 12, 267, 270, 276, 183, 149, 95], "retrieval": "semantic"}
+{"id": 50, "claim": "Hydroxychloroquine is not a standard or recommended treatment for COVID-19", "doc_ids": [274, 308, 216, 6, 23, 265, 107, 244, 172, 48], "retrieval": "semantic"}
+{"id": 51, "claim": "Hydroxychloroquine has been studied for its potential antiviral and anti-inflammatory effects", "doc_ids": [107, 6, 308, 23, 274, 216, 172, 294, 205, 104], "retrieval": "semantic"}
+{"id": 52, "claim": "The evidence supporting its use in treating COVID-19 is limited", "doc_ids": [48, 222, 28, 83, 199, 265, 281, 66, 5, 76], "retrieval": "semantic"}
+{"id": 53, "claim": "Current guidelines from major health organizations do not recommend its use for COVID-19", "doc_ids": [83, 48, 199, 28, 222, 261, 66, 265, 54, 183], "retrieval": "semantic"}
+{"id": 54, "claim": "There is limited evidence regarding the association between ACE inhibitors and ARBs and a higher risk of severe COVID-19.", "doc_ids": [280, 33, 19, 241, 68, 223, 100, 36, 306, 272], "retrieval": "semantic"}
+{"id": 55, "claim": "Some studies have suggested a possible association.", "doc_ids": [157, 199, 127, 191, 103, 86, 221, 203, 7, 185], "retrieval": "semantic"}
+{"id": 56, "claim": "The evidence is not conclusive.", "doc_ids": [86, 28, 203, 136, 43, 253, 88, 327, 326, 329], "retrieval": "semantic"}
+{"id": 57, "claim": "An N95 mask is not the only way to protect against COVID-19.", "doc_ids": [15, 152, 195, 39, 239, 57, 72, 20, 140, 273], "retrieval": "semantic"}
+{"id": 58, "claim": "Vaccination can help reduce the risk of infection.", "doc_ids": [186, 35, 29, 43, 86, 242, 326, 27, 2, 122], "retrieval": "semantic"}
+{"id": 59, "claim": "Social distancing can help reduce the risk of infection.", "doc_ids": [105, 268, 240, 279, 120, 178, 304, 177, 86, 57], "retrieval": "semantic"}
+{"id": 60, "claim": "Hand hygiene can help reduce the risk of infection.", "doc_ids": [329, 178, 49, 61, 309, 124, 130, 164, 102, 186], "retrieval": "semantic"}
+{"id": 61, "claim": "Stool analysis is not a reliable way to diagnose COVID-19", "doc_ids": [10, 70, 81, 154, 183, 51, 12, 28, 271, 21], "retrieval": "semantic"}
+{"id": 62, "claim": "The virus can be detected in stool", "doc_ids": [70, 10, 221, 161, 113, 9, 232, 81, 251, 318], "retrieval": "semantic"}
+{"id": 63, "claim": "It is not the primary or most accurate method for diagnosis", "doc_ids": [154, 51, 10, 271, 81, 183, 95, 28, 319, 21], "retrieval": "semantic"}
+{"id": 64, "claim": "PCR testing of nasal swabs or saliva are more reliable", "doc_ids": [253, 10, 162, 183, 155, 154, 187, 75, 283, 15], "retrieval": "semantic"}
+{"id": 65, "claim": "COVID-19 can affect B cells", "doc_ids": [204, 314, 85, 66, 209, 282, 157, 199, 128, 7], "retrieval": "semantic"}
+{"id": 66, "claim": "COVID-19 can lead to immune dysregulation", "doc_ids": [209, 204, 282, 314, 149, 85, 66, 174, 38, 128], "retrieval": "semantic"}
+{"id": 67, "claim": "Changes in B cell subsets and function can be observed in individuals with COVID-19", "doc_ids": [85, 314, 204, 1, 139, 282, 209, 157, 254, 7], "retrieval": "semantic"}
+{"id": 68, "claim": "B cell-related complications, such as B cell lymphoma, can occur following COVID-19 infection", "doc_ids": [314, 66, 260, 82, 128, 261, 38, 174, 302, 70], "retrieval": "semantic"}
+{"id": 69, "claim": "It can be difficult to determine if COVID-19 was the direct cause of death", "doc_ids": [271, 291, 94, 150, 82, 237, 60, 272, 170, 260], "retrieval": "semantic"}
+{"id": 70, "claim": "The severity of COVID-19 can vary widely", "doc_ids": [82, 95, 270, 202, 12, 302, 260, 66, 272, 209], "retrieval": "semantic"}
+{"id": 71, "claim": "The effectiveness of treatments can also differ depending on the individual and the specific circumstances", "doc_ids": [76, 48, 83, 248, 28, 71, 136, 30, 294, 27], "retrieval": "semantic"}
+{"id": 72, "claim": "Hypertension is a known risk factor for severe COVID-19 outcomes in general.", "doc_ids": [99, 323, 93, 82, 191, 272, 223, 59, 174, 97], "retrieval": "semantic"}
+{"id": 73, "claim": "The significance of hypertension alone as a risk factor for severe COVID-19 in otherwise healthy young individuals is not definitively established.", "doc_ids": [99, 93, 323, 223, 82, 97, 191, 59, 272, 95], "retrieval": "semantic"}
+{"id": 74, "claim": "The impact of hypertension on COVID-19 outcomes can vary depending on the severity of the hypertension, other underlying health conditions, and individual factors.", "doc_ids": [323, 99, 93, 191, 82, 272, 223, 59, 174, 241], "retrieval": "semantic"}
+{"id": 75, "claim": "SARS-CoV-2 is the virus that causes COVID-19", "doc_ids": [302, 21, 165, 291, 70, 150, 282, 260, 210, 318], "retrieval": "semantic"}
+{"id": 76, "claim": "Dogs and cats may potentially spread COVID-19 to humans", "doc_ids": [236, 198, 214, 87, 224, 170, 300, 101, 84, 32], "retrieval": "semantic"}
+{"id": 77, "claim": "There is limited evidence to suggest that dogs and cats can spread COVID-19 to humans", "doc_ids": [236, 198, 214, 87, 300, 224, 101, 170, 84, 32], "retrieval": "semantic"}
+{"id": 78, "claim": "The primary concern is that dogs and cats could potentially become infected", "doc_ids": [236, 224, 300, 198, 101, 87, 214, 84, 32, 170], "retrieval": "semantic"}
+{"id": 79, "claim": "Dogs and cats could potentially transmit the virus to other animals or humans", "doc_ids": [198, 236, 87, 214, 224, 300, 101, 170, 32, 84], "retrieval": "semantic"}
+{"id": 80, "claim": "N95 respirators offer a higher level of protection against COVID-19", "doc_ids": [15, 152, 195, 39, 239, 273, 102, 27, 40, 204], "retrieval": "semantic"}
+{"id": 81, "claim": "The effectiveness of N95 respirators depends on a proper fit", "doc_ids": [15, 195, 152, 178, 57, 301, 39, 273, 106, 102], "retrieval": "semantic"}
+{"id": 82, "claim": "COVID-19 can be transmitted through food", "doc_ids": [119, 198, 236, 170, 87, 75, 214, 142, 183, 264], "retrieval": "semantic"}
+{"id": 83, "claim": "COVID-19 is primarily spread through respiratory droplets", "doc_ids": [318, 70, 302, 21, 170, 50, 225, 119, 236, 321], "retrieval": "semantic"}
+{"id": 84, "claim": "The virus is primarily spread through respiratory droplets produced when an infected person coughs, sneezes, or talks", "doc_ids": [318, 121, 200, 21, 70, 302, 267, 154, 149, 37], "retrieval": "semantic"}
+{"id": 85, "claim": "People with weakened immune systems are more likely to experience severe illness from COVID-19", "doc_ids": [282, 204, 318, 27, 149, 96, 12, 174, 302, 70], "retrieval": "semantic"}
+{"id": 86, "claim": "COVID-19 can cause severe illness", "doc_ids": [302, 82, 260, 66, 174, 70, 318, 149, 150, 97], "retrieval": "semantic"}
+{"id": 87, "claim": "Pets may transmit COVID-19 to humans", "doc_ids": [198, 236, 214, 87, 170, 101, 224, 84, 300, 32], "retrieval": "semantic"}
+{"id": 88, "claim": "There is limited evidence to suggest that pets can transmit COVID-19 to humans", "doc_ids": [198, 236, 214, 87, 101, 170, 224, 300, 84, 32], "retrieval": "semantic"}
+{"id": 89, "claim": "The primary concern is that humans can transmit the virus to pets", "doc_ids": [84, 236, 198, 224, 87, 214, 170, 101, 32, 300], "retrieval": "semantic"}
+{"id": 90, "claim": "COVID-19 is caused by the SARS-CoV-2 virus", "doc_ids": [302, 210, 260, 291, 174, 70, 21, 237, 66, 150], "retrieval": "semantic"}
+{"id": 91, "claim": "Taking fever-reducing medications like Tylenol (acetaminophen) or Advil (ibuprofen) can help manage fever and discomfort associated with COVID-19.", "doc_ids": [193, 36, 199, 30, 189, 26, 137, 306, 265, 261], "retrieval": "semantic"}
+{"id": 92, "claim": "These medications can provide symptomatic relief.", "doc_ids": [30, 193, 252, 48, 265, 137, 36, 5, 199, 76], "retrieval": "semantic"}
+{"id": 93, "claim": "These medications do not treat the underlying viral infection.", "doc_ids": [48, 5, 261, 199, 316, 156, 137, 243, 31, 66], "retrieval": "semantic"}
+{"id": 94, "claim": "There is no reliable scientific evidence to support the claim that garlic, ginger, or certain herbs can cure COVID-19.", "doc_ids": [31, 203, 142, 48, 308, 23, 274, 188, 108, 28], "retrieval": "semantic"}
+{"id": 95, "claim": "Some studies suggest potential benefits of these substances for immune function or reducing inflammation.", "doc_ids": [203, 43, 186, 118, 320, 199, 29, 322, 306, 66], "retrieval": "semantic"}
+{"id": 96, "claim": "These findings are preliminary and do not establish a causal relationship with COVID-19 treatment.", "doc_ids": [48, 222, 83, 28, 199, 51, 66, 23, 76, 54], "retrieval": "semantic"}
+{"id": 97, "claim": "An N95 respirator is generally thicker than a surgical mask", "doc_ids": [15, 195, 152, 227, 57, 102, 160, 39, 138, 239], "retrieval": "semantic"}
+{"id": 98, "claim": "The origin of the coronavirus is still under investigation", "doc_ids": [47, 251, 53, 235, 125, 37, 170, 326, 32, 321], "retrieval": "semantic"}
+{"id": 99, "claim": "The exact source is not yet definitively known", "doc_ids": [47, 225, 37, 236, 153, 271, 267, 161, 170, 221], "retrieval": "semantic"}
+{"id": 100, "claim": "A wet market in China was initially suspected", "doc_ids": [171, 210, 101, 37, 222, 224, 79, 81, 313, 228], "retrieval": "semantic"}
+{"id": 101, "claim": "The evidence is not conclusive", "doc_ids": [28, 253, 86, 136, 203, 43, 326, 329, 88, 235], "retrieval": "semantic"}
+{"id": 102, "claim": "Some COVID-19 medications have anti-inflammatory effects", "doc_ids": [199, 66, 306, 48, 193, 137, 265, 31, 118, 252], "retrieval": "semantic"}
+{"id": 103, "claim": "Certain antiviral drugs have anti-inflammatory effects", "doc_ids": [199, 193, 137, 66, 306, 48, 252, 36, 118, 203], "retrieval": "semantic"}
+{"id": 104, "claim": "Corticosteroids have anti-inflammatory effects", "doc_ids": [118, 234, 306, 137, 199, 135, 66, 193, 36, 111], "retrieval": "semantic"}
+{"id": 105, "claim": "The extent of anti-inflammatory effects can vary", "doc_ids": [199, 118, 66, 306, 137, 193, 294, 29, 172, 1], "retrieval": "semantic"}
+{"id": 106, "claim": "Face masks can help prevent the spread of COVID-19", "doc_ids": [72, 39, 20, 317, 102, 140, 239, 273, 152, 160], "retrieval": "semantic"}
+{"id": 107, "claim": "Antiviral medications are available to treat COVID-19", "doc_ids": [48, 5, 56, 54, 182, 265, 222, 66, 248, 316], "retrieval": "semantic"}
+{"id": 108, "claim": "COVID-19 can be treated with antiviral medications", "doc_ids": [48, 5, 54, 222, 265, 66, 182, 56, 194, 83], "retrieval": "semantic"}
+{"id": 109, "claim": "Vitamin D deficiency may be associated with increased risk of severe COVID-19 outcomes.", "doc_ids": [209, 86, 51, 88, 281, 199, 82, 66, 31, 261], "retrieval": "semantic"}
+{"id": 110, "claim": "Current guidelines do not recommend vitamin D supplementation as a standard treatment for COVID-19.", "doc_ids": [281, 86, 51, 48, 327, 209, 188, 88, 31, 111], "retrieval": "semantic"}
+{"id": 111, "claim": "The role of vitamin D in COVID-19 is an area of ongoing research.", "doc_ids": [88, 86, 209, 51, 281, 43, 327, 31, 188, 199], "retrieval": "semantic"}
+{"id": 112, "claim": "The evidence is not conclusive.", "doc_ids": [86, 28, 203, 136, 43, 253, 88, 327, 326, 329], "retrieval": "semantic"}
+{"id": 113, "claim": "UVC wands may be effective at killing some viruses", "doc_ids": [40, 48, 6, 107, 316, 308, 311, 108, 86, 31], "retrieval": "semantic"}
+{"id": 114, "claim": "The effectiveness can vary depending on the specific virus", "doc_ids": [48, 316, 108, 54, 282, 251, 326, 166, 153, 27], "retrieval": "semantic"}
+{"id": 115, "claim": "The effectiveness can vary depending on the intensity of the UVC light", "doc_ids": [90, 40, 23, 172, 294, 274, 199, 108, 48, 31], "retrieval": "semantic"}
+{"id": 116, "claim": "The effectiveness can vary depending on the exposure time", "doc_ids": [71, 76, 172, 135, 133, 20, 25, 274, 83, 248], "retrieval": "semantic"}
+{"id": 117, "claim": "Current evidence does not support the routine use of vitamin B supplements to prevent severe outcomes in COVID-19", "doc_ids": [281, 86, 209, 327, 88, 31, 188, 43, 199, 48], "retrieval": "semantic"}
+{"id": 118, "claim": "Some studies have explored the potential benefits of certain B vitamins", "doc_ids": [86, 281, 188, 327, 43, 88, 186, 209, 31, 29], "retrieval": "semantic"}
+{"id": 119, "claim": "The results are inconsistent", "doc_ids": [191, 289, 253, 199, 105, 34, 51, 130, 172, 155], "retrieval": "semantic"}
+{"id": 120, "claim": "The evidence is not strong enough to recommend their use for this purpose", "doc_ids": [199, 203, 28, 316, 86, 83, 329, 281, 76, 152], "retrieval": "semantic"}
+{"id": 121, "claim": "Vitamin C may reduce the duration of colds", "doc_ids": [31, 281, 209, 86, 274, 43, 88, 244, 327, 188], "retrieval": "semantic"}
+{"id": 122, "claim": "Vitamin D deficiency has been linked to increased susceptibility to infections", "doc_ids": [86, 209, 88, 281, 51, 43, 31, 327, 199, 149], "retrieval": "semantic"}
+{"id": 123, "claim": "Vitamin C is an antioxidant and plays a role in immune cell function", "doc_ids": [43, 186, 88, 203, 31, 86, 281, 327, 204, 209], "retrieval": "semantic"}
+{"id": 124, "claim": "Vitamin D is important for immune regulation", "doc_ids": [88, 86, 43, 209, 118, 327, 186, 203, 31, 281], "retrieval": "semantic"}
+{"id": 125, "claim": "Some vitamins and minerals are important for overall health and immune function.", "doc_ids": [43, 327, 186, 88, 86, 203, 209, 188, 281, 118], "retrieval": "semantic"}
+{"id": 126, "claim": "The evidence regarding their direct role in fighting the coronavirus is limited.", "doc_ids": [326, 43, 316, 170, 282, 166, 54, 251, 203, 165], "retrieval": "semantic"}
+{"id": 127, "claim": "Certain nutrients, such as vitamin D, zinc, and selenium, may play a role in modulating the immune response or reducing the severity of illness.", "doc_ids": [43, 327, 86, 203, 186, 209, 118, 88, 320, 188], "retrieval": "semantic"}
+{"id": 128, "claim": "More research is needed to confirm these findings and determine the optimal dosage and timing of supplementation.", "doc_ids": [188, 327, 312, 43, 88, 248, 86, 28, 281, 135], "retrieval": "semantic"}
+{"id": 129, "claim": "Wearing a mask with multiple layers is recommended as an intervention to help prevent the spread of COVID-19", "doc_ids": [72, 39, 20, 140, 152, 273, 195, 227, 239, 61], "retrieval": "semantic"}
+{"id": 130, "claim": "Garlic water may be an effective treatment for COVID-19", "doc_ids": [31, 48, 203, 216, 194, 265, 61, 5, 222, 182], "retrieval": "semantic"}
+{"id": 131, "claim": "Some studies suggest potential antiviral properties of garlic", "doc_ids": [203, 316, 31, 108, 269, 104, 186, 56, 43, 142], "retrieval": "semantic"}
+{"id": 132, "claim": "More research is needed to confirm the effects of garlic water", "doc_ids": [203, 329, 31, 75, 186, 286, 161, 126, 269, 307], "retrieval": "semantic"}
+{"id": 133, "claim": "The appropriate dosage and duration of treatment for COVID-19 is not known", "doc_ids": [48, 248, 222, 265, 71, 274, 5, 28, 54, 83], "retrieval": "semantic"}
+{"id": 134, "claim": "It is difficult to say definitively whether clinical trials are needed to study the effectiveness of endogenously created vitamin D for COVID-19 prevention and treatment.", "doc_ids": [86, 281, 88, 209, 51, 28, 31, 312, 48, 83], "retrieval": "semantic"}
+{"id": 135, "claim": "Some studies have suggested a potential link between vitamin D levels and COVID-19 outcomes.", "doc_ids": [86, 88, 51, 209, 281, 199, 31, 43, 327, 147], "retrieval": "semantic"}
+{"id": 136, "claim": "The evidence is not conclusive.", "doc_ids": [86, 28, 203, 136, 43, 253, 88, 327, 326, 329], "retrieval": "semantic"}
+{"id": 137, "claim": "More research is needed to determine whether vitamin D supplementation can effectively prevent or treat COVID-19.", "doc_ids": [86, 209, 281, 88, 327, 51, 48, 31, 188, 43], "retrieval": "semantic"}
+{"id": 138, "claim": "Dexamethasone is most effective in conditions where it can reduce inflammation and suppress the immune system", "doc_ids": [118, 234, 111, 135, 137, 306, 199, 250, 203, 66], "retrieval": "semantic"}
+{"id": 139, "claim": "Dexamethasone is most effective in certain types of autoimmune diseases", "doc_ids": [118, 111, 234, 135, 137, 306, 199, 66, 128, 48], "retrieval": "semantic"}
+{"id": 140, "claim": "Dexamethasone is most effective in allergic reactions", "doc_ids": [118, 111, 135, 234, 137, 199, 306, 36, 193, 312], "retrieval": "semantic"}
+{"id": 141, "claim": "Dexamethasone is most effective in some cancers", "doc_ids": [111, 118, 234, 135, 137, 199, 306, 311, 36, 184], "retrieval": "semantic"}
+{"id": 142, "claim": "COVID-19 can remain infectious in the air", "doc_ids": [221, 119, 264, 78, 302, 236, 149, 183, 170, 276], "retrieval": "semantic"}
+{"id": 143, "claim": "COVID-19 can remain infectious on surfaces", "doc_ids": [45, 235, 321, 119, 264, 282, 187, 221, 222, 21], "retrieval": "semantic"}
+{"id": 144, "claim": "The duration depends on factors like the virus's stability", "doc_ids": [235, 251, 264, 50, 282, 78, 113, 52, 25, 305], "retrieval": "semantic"}
+{"id": 145, "claim": "The virus can survive on surfaces for hours", "doc_ids": [235, 45, 57, 251, 264, 305, 282, 11, 263, 297], "retrieval": "semantic"}
+{"id": 146, "claim": "Taking Advil (ibuprofen) to reduce fever from COVID-19 is generally considered safe for short-term use", "doc_ids": [193, 36, 199, 189, 26, 137, 306, 265, 261, 118], "retrieval": "semantic"}
+{"id": 147, "claim": "Advil (ibuprofen) can help alleviate discomfort", "doc_ids": [193, 36, 199, 137, 189, 26, 30, 306, 261, 118], "retrieval": "semantic"}
+{"id": 148, "claim": "Advil (ibuprofen) may cause stomach upset", "doc_ids": [193, 36, 199, 189, 26, 137, 306, 30, 261, 33], "retrieval": "semantic"}
+{"id": 149, "claim": "Advil (ibuprofen) may cause kidney problems in rare cases", "doc_ids": [36, 199, 193, 33, 189, 261, 26, 306, 280, 137], "retrieval": "semantic"}
+{"id": 150, "claim": "A strong immune system is generally considered important for fighting off COVID-19.", "doc_ids": [203, 204, 139, 282, 297, 213, 186, 11, 43, 66], "retrieval": "semantic"}
+{"id": 151, "claim": "The strength of the immune response can vary significantly from person to person.", "doc_ids": [139, 315, 159, 153, 85, 213, 1, 296, 204, 251], "retrieval": "semantic"}
+{"id": 152, "claim": "Age can influence the outcome.", "doc_ids": [65, 284, 288, 294, 197, 172, 12, 96, 191, 26], "retrieval": "semantic"}
+{"id": 153, "claim": "Underlying health conditions can influence the outcome.", "doc_ids": [294, 191, 96, 172, 128, 65, 197, 203, 62, 109], "retrieval": "semantic"}
+{"id": 154, "claim": "Masks can help reduce the spread of COVID-19", "doc_ids": [140, 72, 39, 20, 273, 317, 239, 102, 195, 40], "retrieval": "semantic"}
+{"id": 155, "claim": "A significant portion of COVID-19 cases have been found in the 20-44 age group", "doc_ids": [12, 247, 10, 271, 208, 65, 80, 270, 218, 238], "retrieval": "semantic"}
+{"id": 156, "claim": "The proportion of cases in the 20-44 age group can vary", "doc_ids": [284, 92, 80, 12, 208, 65, 246, 270, 10, 247], "retrieval": "semantic"}
+{"id": 157, "claim": "Smoking is not recommended as a preventative measure against severe COVID-19", "doc_ids": [175, 327, 72, 39, 320, 306, 20, 121, 5, 142], "retrieval": "semantic"}
+{"id": 158, "claim": "Smoking is harmful to health", "doc_ids": [320, 175, 256, 44, 75, 203, 186, 327, 322, 178], "retrieval": "semantic"}
+{"id": 159, "claim": "Smokers may have a lower risk of developing symptomatic or severe COVID-19 compared to the general population", "doc_ids": [256, 175, 44, 12, 246, 127, 320, 95, 202, 218], "retrieval": "semantic"}
+{"id": 160, "claim": "Smoking is a significant risk factor for many other health problems", "doc_ids": [175, 320, 256, 44, 127, 203, 30, 186, 75, 322], "retrieval": "semantic"}
+{"id": 161, "claim": "Smoking is a significant risk factor for respiratory illnesses", "doc_ids": [175, 320, 256, 44, 160, 30, 127, 75, 21, 322], "retrieval": "semantic"}
+{"id": 162, "claim": "Smoking is a significant risk factor for cardiovascular disease", "doc_ids": [44, 127, 175, 256, 223, 191, 320, 99, 174, 272], "retrieval": "semantic"}
+{"id": 163, "claim": "COVID-19 can linger on surfaces", "doc_ids": [321, 187, 235, 222, 45, 119, 282, 21, 70, 318], "retrieval": "semantic"}
+{"id": 164, "claim": "The duration and extent of this persistence depend on several factors", "doc_ids": [235, 78, 52, 289, 172, 50, 251, 140, 76, 71], "retrieval": "semantic"}
+{"id": 165, "claim": "The virus can survive for hours or even days on certain surfaces", "doc_ids": [235, 45, 251, 57, 264, 282, 305, 11, 297, 113], "retrieval": "semantic"}
+{"id": 166, "claim": "The risk of transmission from contaminated surfaces is generally considered lower than that of transmission through respiratory droplets or aerosols", "doc_ids": [102, 264, 119, 235, 75, 181, 321, 21, 45, 187], "retrieval": "semantic"}
+{"id": 167, "claim": "Pets can not spread COVID-19 to humans", "doc_ids": [198, 236, 170, 214, 87, 101, 84, 224, 300, 222], "retrieval": "semantic"}
+{"id": 168, "claim": "COVID-19 can have symptoms similar to a cold", "doc_ids": [283, 59, 82, 302, 260, 34, 318, 66, 7, 174], "retrieval": "semantic"}
+{"id": 169, "claim": "COVID-19 can cause fever", "doc_ids": [66, 193, 149, 128, 302, 70, 265, 59, 82, 9], "retrieval": "semantic"}
+{"id": 170, "claim": "COVID-19 can cause cough", "doc_ids": [9, 70, 318, 302, 283, 154, 149, 10, 59, 42], "retrieval": "semantic"}
+{"id": 171, "claim": "COVID-19 can cause sore throat", "doc_ids": [283, 66, 70, 302, 260, 318, 42, 149, 225, 174], "retrieval": "semantic"}
+{"id": 172, "claim": "Vitamin D levels may be associated with COVID-19 risk", "doc_ids": [209, 86, 51, 88, 199, 281, 327, 31, 43, 147], "retrieval": "semantic"}
+{"id": 173, "claim": "The evidence is not conclusive", "doc_ids": [28, 253, 86, 136, 203, 43, 326, 329, 88, 235], "retrieval": "semantic"}
+{"id": 174, "claim": "Vitamin D supplementation may not protect against COVID-19", "doc_ids": [86, 209, 281, 88, 51, 327, 188, 31, 43, 48], "retrieval": "semantic"}
+{"id": 175, "claim": "More research is needed", "doc_ids": [73, 183, 136, 276, 319, 28, 316, 115, 154, 167], "retrieval": "semantic"}
+{"id": 176, "claim": "Wearing a mask can help protect against COVID-19", "doc_ids": [72, 39, 239, 20, 140, 273, 152, 102, 61, 15], "retrieval": "semantic"}

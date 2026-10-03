@@ -1,0 +1,11 @@
+{
+  "question": "What are the health effects of wearing face masks?",
+  "answer": "Wearing face masks can offer several health benefits. They can help reduce the spread of respiratory droplets that carry viruses like influenza and COVID-19, protecting both the wearer and those around them. Masks can also help to filter out some airborne particles, potentially reducing exposure to pollutants and allergens. However, it's important to note that masks can sometimes cause discomfort, such as skin irritation or breathing difficulties, especially in individuals with pre-existing respiratory conditions.",
+  "claims": [
+    "Wearing face masks can reduce the spread of respiratory droplets that carry viruses like influenza and COVID-19.",
+    "Wearing face masks can protect both the wearer and those around them from respiratory droplets.",
+    "Wearing face masks can filter out some airborne particles.",
+    "Wearing face masks can potentially reduce exposure to pollutants and allergens.",
+    "Wearing face masks can sometimes cause discomfort, such as skin irritation or breathing difficulties."
+  ]
+}

@@ -1,0 +1,177 @@
+{"question_id": 1, "claim_id": "1-1", "claim": "Wearing a face covering can reduce the risk of COVID-19 infection", "extraction_method": "medgemma_json"}
+{"question_id": 2, "claim_id": "2-1", "claim": "Marijuana can cause lung damage", "extraction_method": "medgemma_json"}
+{"question_id": 2, "claim_id": "2-2", "claim": "Edibles may reduce the risk of lung damage compared to smoking", "extraction_method": "medgemma_json"}
+{"question_id": 2, "claim_id": "2-3", "claim": "Tinctures may reduce the risk of lung damage compared to smoking", "extraction_method": "medgemma_json"}
+{"question_id": 2, "claim_id": "2-4", "claim": "Vaporizers may reduce the risk of lung damage compared to smoking", "extraction_method": "medgemma_json"}
+{"question_id": 3, "claim_id": "3-1", "claim": "COVID-19 can cause fever", "extraction_method": "medgemma_json"}
+{"question_id": 3, "claim_id": "3-2", "claim": "Acetaminophen (Tylenol) can help reduce fever", "extraction_method": "medgemma_json"}
+{"question_id": 3, "claim_id": "3-3", "claim": "Ibuprofen (Advil, Motrin) can help reduce fever", "extraction_method": "medgemma_json"}
+{"question_id": 3, "claim_id": "3-4", "claim": "Fever can be uncomfortable", "extraction_method": "medgemma_json"}
+{"question_id": 4, "claim_id": "4-1", "claim": "SARS-CoV-2, the virus that causes COVID-19, can survive on surfaces", "extraction_method": "medgemma_json"}
+{"question_id": 4, "claim_id": "4-2", "claim": "The amount of time it survives depends on factors like the type of surface, temperature, humidity, and the presence of other materials", "extraction_method": "medgemma_json"}
+{"question_id": 5, "claim_id": "5-1", "claim": "Nicotine patches may not offer protection against COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 6, "claim_id": "6-1", "claim": "Asymptomatic COVID-19 cases can spread the virus to others", "extraction_method": "medgemma_json"}
+{"question_id": 6, "claim_id": "6-2", "claim": "COVID-19 can cause spread", "extraction_method": "medgemma_json"}
+{"question_id": 7, "claim_id": "7-1", "claim": "COVID-19 may be associated with increased rates of depression", "extraction_method": "medgemma_json"}
+{"question_id": 7, "claim_id": "7-2", "claim": "COVID-19 may be associated with increased rates of anxiety", "extraction_method": "medgemma_json"}
+{"question_id": 7, "claim_id": "7-3", "claim": "College students may experience increased mental health concerns", "extraction_method": "medgemma_json"}
+{"question_id": 7, "claim_id": "7-4", "claim": "Social isolation may contribute to increased mental health concerns", "extraction_method": "medgemma_json"}
+{"question_id": 8, "claim_id": "8-1", "claim": "Gargling with warm water mixed with salt and vinegar is not an effective treatment for COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 8, "claim_id": "8-2", "claim": "There is no scientific evidence to support the claim that gargling with warm water mixed with salt and vinegar is an effective treatment for COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 9, "claim_id": "9-1", "claim": "COVID-19 can cause death in young people", "extraction_method": "medgemma_json"}
+{"question_id": 9, "claim_id": "9-2", "claim": "The risk of severe illness and death from COVID-19 is higher in young people who are unvaccinated or have underlying medical conditions", "extraction_method": "medgemma_json"}
+{"question_id": 10, "claim_id": "10-1", "claim": "Eating garlic may help prevent COVID-19 infection", "extraction_method": "medgemma_json"}
+{"question_id": 10, "claim_id": "10-2", "claim": "Garlic has antiviral properties", "extraction_method": "medgemma_json"}
+{"question_id": 10, "claim_id": "10-3", "claim": "More research is needed", "extraction_method": "medgemma_json"}
+{"question_id": 11, "claim_id": "11-1", "claim": "Ginger may help alleviate symptoms like nausea and vomiting", "extraction_method": "medgemma_json"}
+{"question_id": 11, "claim_id": "11-2", "claim": "Nausea and vomiting may be associated with COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 11, "claim_id": "11-3", "claim": "The evidence is limited", "extraction_method": "medgemma_json"}
+{"question_id": 11, "claim_id": "11-4", "claim": "More research is needed", "extraction_method": "medgemma_json"}
+{"question_id": 12, "claim_id": "12-1", "claim": "Sun exposure or temperatures above 25 degrees Celsius do not prevent COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 12, "claim_id": "12-2", "claim": "There is no established evidence that sun exposure or temperatures above 25 degrees Celsius prevent COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 12, "claim_id": "12-3", "claim": "Some studies have suggested a possible link between vitamin D levels and COVID-19 outcomes", "extraction_method": "medgemma_json"}
+{"question_id": 12, "claim_id": "12-4", "claim": "The evidence is not conclusive regarding the link between vitamin D levels and COVID-19 outcomes", "extraction_method": "medgemma_json"}
+{"question_id": 13, "claim_id": "13-1", "claim": "Ferrets can contract COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 14, "claim_id": "14-1", "claim": "COVID-19 can affect various organs, including the lungs", "extraction_method": "medgemma_json"}
+{"question_id": 14, "claim_id": "14-2", "claim": "The virus can also affect other organs, such as the heart, kidneys, brain, and gastrointestinal tract", "extraction_method": "medgemma_json"}
+{"question_id": 15, "claim_id": "15-1", "claim": "COVID-19 patients with severe illness may exhibit signs of a weakened immune system", "extraction_method": "medgemma_json"}
+{"question_id": 15, "claim_id": "15-2", "claim": "COVID-19 patients with severe illness may have a dysregulated immune response", "extraction_method": "medgemma_json"}
+{"question_id": 15, "claim_id": "15-3", "claim": "COVID-19 patients with severe illness may exhibit excessive inflammation (cytokine storm)", "extraction_method": "medgemma_json"}
+{"question_id": 15, "claim_id": "15-4", "claim": "COVID-19 patients with severe illness may have impaired ability to control the virus", "extraction_method": "medgemma_json"}
+{"question_id": 16, "claim_id": "16-1", "claim": "There is limited evidence to suggest that hot weather increases the risk of COVID-19 transmission", "extraction_method": "medgemma_json"}
+{"question_id": 16, "claim_id": "16-2", "claim": "Some studies have shown a possible association", "extraction_method": "medgemma_json"}
+{"question_id": 17, "claim_id": "17-1", "claim": "The virus that causes COVID-19 can survive on surfaces for varying amounts of time.", "extraction_method": "medgemma_json"}
+{"question_id": 17, "claim_id": "17-2", "claim": "The virus that causes COVID-19 can persist on some surfaces for hours or even days.", "extraction_method": "medgemma_json"}
+{"question_id": 17, "claim_id": "17-3", "claim": "Alcohol-based solutions are generally effective against SARS-CoV-2.", "extraction_method": "medgemma_json"}
+{"question_id": 17, "claim_id": "17-4", "claim": "Alcohol-based solutions with concentrations of at least 60% alcohol are effective.", "extraction_method": "medgemma_json"}
+{"question_id": 18, "claim_id": "18-1", "claim": "Children can get seriously ill from COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 18, "claim_id": "18-2", "claim": "Children are generally less likely to experience severe outcomes compared to adults", "extraction_method": "medgemma_json"}
+{"question_id": 18, "claim_id": "18-3", "claim": "Serious illness can occur in children", "extraction_method": "medgemma_json"}
+{"question_id": 18, "claim_id": "18-4", "claim": "It's important for children who are infected to be monitored by a healthcare professional", "extraction_method": "medgemma_json"}
+{"question_id": 19, "claim_id": "19-1", "claim": "Hydroxychloroquine is not a standard or recommended treatment for COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 19, "claim_id": "19-2", "claim": "Hydroxychloroquine has been studied for its potential antiviral and anti-inflammatory effects", "extraction_method": "medgemma_json"}
+{"question_id": 19, "claim_id": "19-3", "claim": "The evidence supporting its use in treating COVID-19 is limited", "extraction_method": "medgemma_json"}
+{"question_id": 19, "claim_id": "19-4", "claim": "Current guidelines from major health organizations do not recommend its use for COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 20, "claim_id": "20-1", "claim": "There is limited evidence regarding the association between ACE inhibitors and ARBs and a higher risk of severe COVID-19.", "extraction_method": "medgemma_json"}
+{"question_id": 20, "claim_id": "20-2", "claim": "Some studies have suggested a possible association.", "extraction_method": "medgemma_json"}
+{"question_id": 20, "claim_id": "20-3", "claim": "The evidence is not conclusive.", "extraction_method": "medgemma_json"}
+{"question_id": 21, "claim_id": "21-1", "claim": "An N95 mask is not the only way to protect against COVID-19.", "extraction_method": "medgemma_json"}
+{"question_id": 21, "claim_id": "21-2", "claim": "Vaccination can help reduce the risk of infection.", "extraction_method": "medgemma_json"}
+{"question_id": 21, "claim_id": "21-3", "claim": "Social distancing can help reduce the risk of infection.", "extraction_method": "medgemma_json"}
+{"question_id": 21, "claim_id": "21-4", "claim": "Hand hygiene can help reduce the risk of infection.", "extraction_method": "medgemma_json"}
+{"question_id": 22, "claim_id": "22-1", "claim": "Stool analysis is not a reliable way to diagnose COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 22, "claim_id": "22-2", "claim": "The virus can be detected in stool", "extraction_method": "medgemma_json"}
+{"question_id": 22, "claim_id": "22-3", "claim": "It is not the primary or most accurate method for diagnosis", "extraction_method": "medgemma_json"}
+{"question_id": 22, "claim_id": "22-4", "claim": "PCR testing of nasal swabs or saliva are more reliable", "extraction_method": "medgemma_json"}
+{"question_id": 23, "claim_id": "23-1", "claim": "COVID-19 can affect B cells", "extraction_method": "medgemma_json"}
+{"question_id": 23, "claim_id": "23-2", "claim": "COVID-19 can lead to immune dysregulation", "extraction_method": "medgemma_json"}
+{"question_id": 23, "claim_id": "23-3", "claim": "Changes in B cell subsets and function can be observed in individuals with COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 23, "claim_id": "23-4", "claim": "B cell-related complications, such as B cell lymphoma, can occur following COVID-19 infection", "extraction_method": "medgemma_json"}
+{"question_id": 24, "claim_id": "24-1", "claim": "It can be difficult to determine if COVID-19 was the direct cause of death", "extraction_method": "medgemma_json"}
+{"question_id": 24, "claim_id": "24-2", "claim": "The severity of COVID-19 can vary widely", "extraction_method": "medgemma_json"}
+{"question_id": 24, "claim_id": "24-3", "claim": "The effectiveness of treatments can also differ depending on the individual and the specific circumstances", "extraction_method": "medgemma_json"}
+{"question_id": 25, "claim_id": "25-1", "claim": "Hypertension is a known risk factor for severe COVID-19 outcomes in general.", "extraction_method": "medgemma_json"}
+{"question_id": 25, "claim_id": "25-2", "claim": "The significance of hypertension alone as a risk factor for severe COVID-19 in otherwise healthy young individuals is not definitively established.", "extraction_method": "medgemma_json"}
+{"question_id": 25, "claim_id": "25-3", "claim": "The impact of hypertension on COVID-19 outcomes can vary depending on the severity of the hypertension, other underlying health conditions, and individual factors.", "extraction_method": "medgemma_json"}
+{"question_id": 26, "claim_id": "26-1", "claim": "SARS-CoV-2 is the virus that causes COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 27, "claim_id": "27-1", "claim": "Dogs and cats may potentially spread COVID-19 to humans", "extraction_method": "medgemma_json"}
+{"question_id": 27, "claim_id": "27-2", "claim": "There is limited evidence to suggest that dogs and cats can spread COVID-19 to humans", "extraction_method": "medgemma_json"}
+{"question_id": 27, "claim_id": "27-3", "claim": "The primary concern is that dogs and cats could potentially become infected", "extraction_method": "medgemma_json"}
+{"question_id": 27, "claim_id": "27-4", "claim": "Dogs and cats could potentially transmit the virus to other animals or humans", "extraction_method": "medgemma_json"}
+{"question_id": 28, "claim_id": "28-1", "claim": "N95 respirators offer a higher level of protection against COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 28, "claim_id": "28-2", "claim": "The effectiveness of N95 respirators depends on a proper fit", "extraction_method": "medgemma_json"}
+{"question_id": 29, "claim_id": "29-1", "claim": "COVID-19 can be transmitted through food", "extraction_method": "medgemma_json"}
+{"question_id": 29, "claim_id": "29-2", "claim": "COVID-19 is primarily spread through respiratory droplets", "extraction_method": "medgemma_json"}
+{"question_id": 29, "claim_id": "29-3", "claim": "The virus is primarily spread through respiratory droplets produced when an infected person coughs, sneezes, or talks", "extraction_method": "medgemma_json"}
+{"question_id": 30, "claim_id": "30-1", "claim": "People with weakened immune systems are more likely to experience severe illness from COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 30, "claim_id": "30-2", "claim": "COVID-19 can cause severe illness", "extraction_method": "medgemma_json"}
+{"question_id": 31, "claim_id": "31-1", "claim": "Pets may transmit COVID-19 to humans", "extraction_method": "medgemma_json"}
+{"question_id": 31, "claim_id": "31-2", "claim": "There is limited evidence to suggest that pets can transmit COVID-19 to humans", "extraction_method": "medgemma_json"}
+{"question_id": 31, "claim_id": "31-3", "claim": "The primary concern is that humans can transmit the virus to pets", "extraction_method": "medgemma_json"}
+{"question_id": 32, "claim_id": "32-1", "claim": "COVID-19 is caused by the SARS-CoV-2 virus", "extraction_method": "medgemma_json"}
+{"question_id": 33, "claim_id": "33-1", "claim": "Taking fever-reducing medications like Tylenol (acetaminophen) or Advil (ibuprofen) can help manage fever and discomfort associated with COVID-19.", "extraction_method": "medgemma_json"}
+{"question_id": 33, "claim_id": "33-2", "claim": "These medications can provide symptomatic relief.", "extraction_method": "medgemma_json"}
+{"question_id": 33, "claim_id": "33-3", "claim": "These medications do not treat the underlying viral infection.", "extraction_method": "medgemma_json"}
+{"question_id": 34, "claim_id": "34-1", "claim": "There is no reliable scientific evidence to support the claim that garlic, ginger, or certain herbs can cure COVID-19.", "extraction_method": "medgemma_json"}
+{"question_id": 34, "claim_id": "34-2", "claim": "Some studies suggest potential benefits of these substances for immune function or reducing inflammation.", "extraction_method": "medgemma_json"}
+{"question_id": 34, "claim_id": "34-3", "claim": "These findings are preliminary and do not establish a causal relationship with COVID-19 treatment.", "extraction_method": "medgemma_json"}
+{"question_id": 35, "claim_id": "35-1", "claim": "An N95 respirator is generally thicker than a surgical mask", "extraction_method": "medgemma_json"}
+{"question_id": 36, "claim_id": "36-1", "claim": "The origin of the coronavirus is still under investigation", "extraction_method": "medgemma_json"}
+{"question_id": 36, "claim_id": "36-2", "claim": "The exact source is not yet definitively known", "extraction_method": "medgemma_json"}
+{"question_id": 36, "claim_id": "36-3", "claim": "A wet market in China was initially suspected", "extraction_method": "medgemma_json"}
+{"question_id": 36, "claim_id": "36-4", "claim": "The evidence is not conclusive", "extraction_method": "medgemma_json"}
+{"question_id": 37, "claim_id": "37-1", "claim": "Some COVID-19 medications have anti-inflammatory effects", "extraction_method": "medgemma_json"}
+{"question_id": 37, "claim_id": "37-2", "claim": "Certain antiviral drugs have anti-inflammatory effects", "extraction_method": "medgemma_json"}
+{"question_id": 37, "claim_id": "37-3", "claim": "Corticosteroids have anti-inflammatory effects", "extraction_method": "medgemma_json"}
+{"question_id": 37, "claim_id": "37-4", "claim": "The extent of anti-inflammatory effects can vary", "extraction_method": "medgemma_json"}
+{"question_id": 38, "claim_id": "38-1", "claim": "Face masks can help prevent the spread of COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 39, "claim_id": "39-1", "claim": "Antiviral medications are available to treat COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 39, "claim_id": "39-2", "claim": "COVID-19 can be treated with antiviral medications", "extraction_method": "medgemma_json"}
+{"question_id": 40, "claim_id": "40-1", "claim": "Vitamin D deficiency may be associated with increased risk of severe COVID-19 outcomes.", "extraction_method": "medgemma_json"}
+{"question_id": 40, "claim_id": "40-2", "claim": "Current guidelines do not recommend vitamin D supplementation as a standard treatment for COVID-19.", "extraction_method": "medgemma_json"}
+{"question_id": 40, "claim_id": "40-3", "claim": "The role of vitamin D in COVID-19 is an area of ongoing research.", "extraction_method": "medgemma_json"}
+{"question_id": 40, "claim_id": "40-4", "claim": "The evidence is not conclusive.", "extraction_method": "medgemma_json"}
+{"question_id": 41, "claim_id": "41-1", "claim": "UVC wands may be effective at killing some viruses", "extraction_method": "medgemma_json"}
+{"question_id": 41, "claim_id": "41-2", "claim": "The effectiveness can vary depending on the specific virus", "extraction_method": "medgemma_json"}
+{"question_id": 41, "claim_id": "41-3", "claim": "The effectiveness can vary depending on the intensity of the UVC light", "extraction_method": "medgemma_json"}
+{"question_id": 41, "claim_id": "41-4", "claim": "The effectiveness can vary depending on the exposure time", "extraction_method": "medgemma_json"}
+{"question_id": 42, "claim_id": "42-1", "claim": "Current evidence does not support the routine use of vitamin B supplements to prevent severe outcomes in COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 42, "claim_id": "42-2", "claim": "Some studies have explored the potential benefits of certain B vitamins", "extraction_method": "medgemma_json"}
+{"question_id": 42, "claim_id": "42-3", "claim": "The results are inconsistent", "extraction_method": "medgemma_json"}
+{"question_id": 42, "claim_id": "42-4", "claim": "The evidence is not strong enough to recommend their use for this purpose", "extraction_method": "medgemma_json"}
+{"question_id": 43, "claim_id": "43-1", "claim": "Vitamin C may reduce the duration of colds", "extraction_method": "medgemma_json"}
+{"question_id": 43, "claim_id": "43-2", "claim": "Vitamin D deficiency has been linked to increased susceptibility to infections", "extraction_method": "medgemma_json"}
+{"question_id": 43, "claim_id": "43-3", "claim": "Vitamin C is an antioxidant and plays a role in immune cell function", "extraction_method": "medgemma_json"}
+{"question_id": 43, "claim_id": "43-4", "claim": "Vitamin D is important for immune regulation", "extraction_method": "medgemma_json"}
+{"question_id": 44, "claim_id": "44-1", "claim": "Some vitamins and minerals are important for overall health and immune function.", "extraction_method": "medgemma_json"}
+{"question_id": 44, "claim_id": "44-2", "claim": "The evidence regarding their direct role in fighting the coronavirus is limited.", "extraction_method": "medgemma_json"}
+{"question_id": 44, "claim_id": "44-3", "claim": "Certain nutrients, such as vitamin D, zinc, and selenium, may play a role in modulating the immune response or reducing the severity of illness.", "extraction_method": "medgemma_json"}
+{"question_id": 44, "claim_id": "44-4", "claim": "More research is needed to confirm these findings and determine the optimal dosage and timing of supplementation.", "extraction_method": "medgemma_json"}
+{"question_id": 45, "claim_id": "45-1", "claim": "Wearing a mask with multiple layers is recommended as an intervention to help prevent the spread of COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 46, "claim_id": "46-1", "claim": "Garlic water may be an effective treatment for COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 46, "claim_id": "46-2", "claim": "Some studies suggest potential antiviral properties of garlic", "extraction_method": "medgemma_json"}
+{"question_id": 46, "claim_id": "46-3", "claim": "More research is needed to confirm the effects of garlic water", "extraction_method": "medgemma_json"}
+{"question_id": 46, "claim_id": "46-4", "claim": "The appropriate dosage and duration of treatment for COVID-19 is not known", "extraction_method": "medgemma_json"}
+{"question_id": 47, "claim_id": "47-1", "claim": "It is difficult to say definitively whether clinical trials are needed to study the effectiveness of endogenously created vitamin D for COVID-19 prevention and treatment.", "extraction_method": "medgemma_json"}
+{"question_id": 47, "claim_id": "47-2", "claim": "Some studies have suggested a potential link between vitamin D levels and COVID-19 outcomes.", "extraction_method": "medgemma_json"}
+{"question_id": 47, "claim_id": "47-3", "claim": "The evidence is not conclusive.", "extraction_method": "medgemma_json"}
+{"question_id": 47, "claim_id": "47-4", "claim": "More research is needed to determine whether vitamin D supplementation can effectively prevent or treat COVID-19.", "extraction_method": "medgemma_json"}
+{"question_id": 48, "claim_id": "48-1", "claim": "Dexamethasone is most effective in conditions where it can reduce inflammation and suppress the immune system", "extraction_method": "medgemma_json"}
+{"question_id": 48, "claim_id": "48-2", "claim": "Dexamethasone is most effective in certain types of autoimmune diseases", "extraction_method": "medgemma_json"}
+{"question_id": 48, "claim_id": "48-3", "claim": "Dexamethasone is most effective in allergic reactions", "extraction_method": "medgemma_json"}
+{"question_id": 48, "claim_id": "48-4", "claim": "Dexamethasone is most effective in some cancers", "extraction_method": "medgemma_json"}
+{"question_id": 49, "claim_id": "49-1", "claim": "COVID-19 can remain infectious in the air", "extraction_method": "medgemma_json"}
+{"question_id": 49, "claim_id": "49-2", "claim": "COVID-19 can remain infectious on surfaces", "extraction_method": "medgemma_json"}
+{"question_id": 49, "claim_id": "49-3", "claim": "The duration depends on factors like the virus's stability", "extraction_method": "medgemma_json"}
+{"question_id": 49, "claim_id": "49-4", "claim": "The virus can survive on surfaces for hours", "extraction_method": "medgemma_json"}
+{"question_id": 50, "claim_id": "50-1", "claim": "Taking Advil (ibuprofen) to reduce fever from COVID-19 is generally considered safe for short-term use", "extraction_method": "medgemma_json"}
+{"question_id": 50, "claim_id": "50-2", "claim": "Advil (ibuprofen) can help alleviate discomfort", "extraction_method": "medgemma_json"}
+{"question_id": 50, "claim_id": "50-3", "claim": "Advil (ibuprofen) may cause stomach upset", "extraction_method": "medgemma_json"}
+{"question_id": 50, "claim_id": "50-4", "claim": "Advil (ibuprofen) may cause kidney problems in rare cases", "extraction_method": "medgemma_json"}
+{"question_id": 51, "claim_id": "51-1", "claim": "A strong immune system is generally considered important for fighting off COVID-19.", "extraction_method": "medgemma_json"}
+{"question_id": 51, "claim_id": "51-2", "claim": "The strength of the immune response can vary significantly from person to person.", "extraction_method": "medgemma_json"}
+{"question_id": 51, "claim_id": "51-3", "claim": "Age can influence the outcome.", "extraction_method": "medgemma_json"}
+{"question_id": 51, "claim_id": "51-4", "claim": "Underlying health conditions can influence the outcome.", "extraction_method": "medgemma_json"}
+{"question_id": 52, "claim_id": "52-1", "claim": "Masks can help reduce the spread of COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 53, "claim_id": "53-1", "claim": "A significant portion of COVID-19 cases have been found in the 20-44 age group", "extraction_method": "medgemma_json"}
+{"question_id": 53, "claim_id": "53-2", "claim": "The proportion of cases in the 20-44 age group can vary", "extraction_method": "medgemma_json"}
+{"question_id": 54, "claim_id": "54-1", "claim": "Smoking is not recommended as a preventative measure against severe COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 54, "claim_id": "54-2", "claim": "Smoking is harmful to health", "extraction_method": "medgemma_json"}
+{"question_id": 55, "claim_id": "55-1", "claim": "Smokers may have a lower risk of developing symptomatic or severe COVID-19 compared to the general population", "extraction_method": "medgemma_json"}
+{"question_id": 55, "claim_id": "55-2", "claim": "Smoking is a significant risk factor for many other health problems", "extraction_method": "medgemma_json"}
+{"question_id": 55, "claim_id": "55-3", "claim": "Smoking is a significant risk factor for respiratory illnesses", "extraction_method": "medgemma_json"}
+{"question_id": 55, "claim_id": "55-4", "claim": "Smoking is a significant risk factor for cardiovascular disease", "extraction_method": "medgemma_json"}
+{"question_id": 56, "claim_id": "56-1", "claim": "COVID-19 can linger on surfaces", "extraction_method": "medgemma_json"}
+{"question_id": 56, "claim_id": "56-2", "claim": "The duration and extent of this persistence depend on several factors", "extraction_method": "medgemma_json"}
+{"question_id": 56, "claim_id": "56-3", "claim": "The virus can survive for hours or even days on certain surfaces", "extraction_method": "medgemma_json"}
+{"question_id": 56, "claim_id": "56-4", "claim": "The risk of transmission from contaminated surfaces is generally considered lower than that of transmission through respiratory droplets or aerosols", "extraction_method": "medgemma_json"}
+{"question_id": 57, "claim_id": "57-1", "claim": "Pets can not spread COVID-19 to humans", "extraction_method": "medgemma_json"}
+{"question_id": 58, "claim_id": "58-1", "claim": "COVID-19 can have symptoms similar to a cold", "extraction_method": "medgemma_json"}
+{"question_id": 58, "claim_id": "58-2", "claim": "COVID-19 can cause fever", "extraction_method": "medgemma_json"}
+{"question_id": 58, "claim_id": "58-3", "claim": "COVID-19 can cause cough", "extraction_method": "medgemma_json"}
+{"question_id": 58, "claim_id": "58-4", "claim": "COVID-19 can cause sore throat", "extraction_method": "medgemma_json"}
+{"question_id": 59, "claim_id": "59-1", "claim": "Vitamin D levels may be associated with COVID-19 risk", "extraction_method": "medgemma_json"}
+{"question_id": 59, "claim_id": "59-2", "claim": "The evidence is not conclusive", "extraction_method": "medgemma_json"}
+{"question_id": 59, "claim_id": "59-3", "claim": "Vitamin D supplementation may not protect against COVID-19", "extraction_method": "medgemma_json"}
+{"question_id": 59, "claim_id": "59-4", "claim": "More research is needed", "extraction_method": "medgemma_json"}
+{"question_id": 60, "claim_id": "60-1", "claim": "Wearing a mask can help protect against COVID-19", "extraction_method": "medgemma_json"}

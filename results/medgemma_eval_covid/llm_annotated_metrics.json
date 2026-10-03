@@ -1,0 +1,31 @@
+{
+  "n_claims": 177,
+  "accuracy": 0.655367231638418,
+  "macro_f1": 0.4409982174688057,
+  "evidence_precision": 0.16427432216905902,
+  "evidence_recall": 0.7038724373576309,
+  "evidence_f1": 0.2663793103448276,
+  "unsupported_claim_rate": 0.2711864406779661,
+  "per_label_f1": {
+    "SUPPORT": 0.807843137254902,
+    "CONTRADICT": 0.24242424242424246,
+    "NEI": 0.2727272727272727
+  },
+  "confusion": {
+    "SUPPORT": {
+      "SUPPORT": 103,
+      "CONTRADICT": 10,
+      "NEI": 0
+    },
+    "CONTRADICT": {
+      "SUPPORT": 3,
+      "CONTRADICT": 4,
+      "NEI": 0
+    },
+    "NEI": {
+      "SUPPORT": 36,
+      "CONTRADICT": 12,
+      "NEI": 9
+    }
+  }
+}

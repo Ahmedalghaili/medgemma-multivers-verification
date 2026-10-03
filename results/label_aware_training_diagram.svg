@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      text { font-family: 'DejaVu Sans', Arial, sans-serif; fill: #1d304a; }
+      .title { font-size: 52px; font-weight: 700; }
+      .subtitle { font-size: 25px; fill: #607187; }
+      .card-title { font-size: 30px; font-weight: 700; }
+      .body { font-size: 23px; }
+      .small { font-size: 20px; fill: #52647a; }
+      .pill { font-size: 21px; font-weight: 700; fill: #ffffff; }
+      .panel-title { font-size: 28px; font-weight: 700; }
+      .node { font-size: 21px; font-weight: 700; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2 2 L10 6 L2 10" fill="none" stroke="#008b95" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect width="1600" height="900" fill="#f7fafc"/>
+  <text x="90" y="90" class="title">How the label-aware model was built</text>
+  <text x="90" y="132" class="subtitle">One model evolves through three training stages</text>
+
+  <rect x="86" y="186" width="420" height="288" rx="24" fill="#e7f1fb" stroke="#a9c8e4" stroke-width="3"/>
+  <rect x="116" y="210" width="134" height="43" rx="21" fill="#326fa6"/>
+  <text x="183" y="239" class="pill" text-anchor="middle">STAGE 1</text>
+  <text x="116" y="293" class="card-title">Original MultiVerS</text>
+  <text x="116" y="340" class="body">Science-trained Longformer</text>
+  <text x="116" y="377" class="body">Train on HealthVer</text>
+  <text x="116" y="432" class="small">Best checkpoint: epoch 17</text>
+
+  <path d="M520 328 H590" stroke="#008b95" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="605" y="186" width="420" height="288" rx="24" fill="#e3f4f2" stroke="#8ecfc9" stroke-width="3"/>
+  <rect x="635" y="210" width="134" height="43" rx="21" fill="#008b95"/>
+  <text x="702" y="239" class="pill" text-anchor="middle">STAGE 2</text>
+  <text x="635" y="293" class="card-title">Fine-tuned MultiVerS</text>
+  <text x="635" y="340" class="body">Load best Stage 1 checkpoint</text>
+  <text x="635" y="377" class="body">Continue training on HealthVer</text>
+  <text x="635" y="432" class="small">Best checkpoint: epoch 3</text>
+
+  <path d="M1039 328 H1109" stroke="#008b95" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="1124" y="186" width="390" height="288" rx="24" fill="#ebf2df" stroke="#bad397" stroke-width="3"/>
+  <rect x="1154" y="210" width="134" height="43" rx="21" fill="#729a3b"/>
+  <text x="1221" y="239" class="pill" text-anchor="middle">STAGE 3</text>
+  <text x="1154" y="293" class="card-title">Label-aware model</text>
+  <text x="1154" y="340" class="body">Load best Stage 2 checkpoint</text>
+  <text x="1154" y="377" class="body">Add label-to-evidence link</text>
+  <text x="1154" y="432" class="small">Best checkpoint: epoch 2</text>
+
+  <rect x="86" y="530" width="1428" height="260" rx="24" fill="#ffffff" stroke="#d3dfe8" stroke-width="3"/>
+  <text x="120" y="585" class="panel-title">What changed in Stage 3?</text>
+
+  <rect x="120" y="626" width="310" height="83" rx="16" fill="#e7f1fb"/>
+  <text x="275" y="663" class="node" text-anchor="middle">Label classifier</text>
+  <text x="275" y="689" class="small" text-anchor="middle">SUPPORT / CONTRADICT / NEI</text>
+  <path d="M443 668 H530" stroke="#008b95" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="547" y="626" width="335" height="83" rx="16" fill="#e3f4f2"/>
+  <text x="714" y="663" class="node" text-anchor="middle">Label probabilities</text>
+  <text x="714" y="689" class="small" text-anchor="middle">How confident is the model?</text>
+  <path d="M895 668 H982" stroke="#008b95" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="999" y="626" width="465" height="83" rx="16" fill="#ebf2df"/>
+  <text x="1231" y="663" class="node" text-anchor="middle">Evidence sentence selector</text>
+  <text x="1231" y="689" class="small" text-anchor="middle">Uses label confidence to choose sentences</text>
+
+  <text x="800" y="758" class="small" text-anchor="middle">The new link was trained; all three models were tested on the same HealthVer test set.</text>
+  <text x="800" y="851" class="subtitle" text-anchor="middle">Result: fine-tuned MultiVerS remained the best-performing version.</text>
+</svg>

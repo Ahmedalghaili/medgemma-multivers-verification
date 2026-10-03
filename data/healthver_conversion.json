@@ -1,0 +1,11 @@
+{
+  "dataset": "dwadden/healthver_entailment",
+  "splits": {
+    "train": 5292,
+    "validation": 940,
+    "test": 903
+  },
+  "unique_documents": 322,
+  "training_root": "data/data_train/target/healthver",
+  "prediction_root": "data/healthver"
+}

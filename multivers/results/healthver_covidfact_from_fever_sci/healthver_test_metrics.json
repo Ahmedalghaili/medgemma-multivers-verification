@@ -1,0 +1,48 @@
+{
+  "n_pairs": 903,
+  "accuracy": 0.7530454042081949,
+  "macro_f1": 0.7506900393431853,
+  "non_nei_abstract_precision": 0.7446808510638298,
+  "non_nei_abstract_recall": 0.7595993322203672,
+  "non_nei_abstract_f1": 0.7520661157024794,
+  "sentence_selection_precision": 0.8981288981288982,
+  "sentence_selection_recall": 0.7840290381125227,
+  "sentence_selection_f1": 0.8372093023255813,
+  "sentence_label_precision": 0.7806652806652806,
+  "sentence_label_recall": 0.6814882032667876,
+  "sentence_label_f1": 0.7277131782945735,
+  "per_label": {
+    "SUPPORT": {
+      "precision": 0.7326732673267327,
+      "recall": 0.7914438502673797,
+      "f1": 0.7609254498714653
+    },
+    "CONTRADICT": {
+      "precision": 0.7681159420289855,
+      "recall": 0.7066666666666667,
+      "f1": 0.736111111111111
+    },
+    "NEI": {
+      "precision": 0.7705479452054794,
+      "recall": 0.7401315789473685,
+      "f1": 0.7550335570469798
+    }
+  },
+  "confusion": {
+    "SUPPORT": {
+      "SUPPORT": 296,
+      "CONTRADICT": 29,
+      "NEI": 49
+    },
+    "CONTRADICT": {
+      "SUPPORT": 48,
+      "CONTRADICT": 159,
+      "NEI": 18
+    },
+    "NEI": {
+      "SUPPORT": 60,
+      "CONTRADICT": 19,
+      "NEI": 225
+    }
+  }
+}

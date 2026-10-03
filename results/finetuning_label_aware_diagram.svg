@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      text { font-family: 'DejaVu Sans', Arial, sans-serif; fill: #1c3048; }
+      .title { font-size: 49px; font-weight: 700; }
+      .subtitle { font-size: 24px; fill: #617286; }
+      .card-title { font-size: 34px; font-weight: 700; }
+      .label { font-size: 20px; font-weight: 700; fill: #526780; }
+      .body { font-size: 24px; }
+      .note { font-size: 21px; fill: #526780; }
+      .result { font-size: 24px; font-weight: 700; }
+      .panel { font-size: 27px; font-weight: 700; }
+      .arrow-label { font-size: 18px; font-weight: 700; fill: #008b95; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2 2 L10 6 L2 10" fill="none" stroke="#008b95" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect width="1600" height="900" fill="#f7fafc"/>
+  <text x="82" y="87" class="title">Fine-tuning and the label-aware modification</text>
+  <text x="82" y="129" class="subtitle">The second experiment starts from the checkpoint saved by the first</text>
+
+  <rect x="80" y="182" width="665" height="440" rx="26" fill="#e8f2fc" stroke="#aac9e4" stroke-width="3"/>
+  <rect x="855" y="182" width="665" height="440" rx="26" fill="#e9f3e1" stroke="#bad59c" stroke-width="3"/>
+
+  <text x="118" y="240" class="card-title">1  Fine-tune MultiVerS</text>
+  <text x="118" y="288" class="label">START FROM</text>
+  <text x="118" y="323" class="body">Best original MultiVerS checkpoint</text>
+  <text x="118" y="355" class="note">(epoch 17)</text>
+  <path d="M412 370 V405" stroke="#008b95" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+  <text x="118" y="447" class="label">TRAINING</text>
+  <text x="118" y="482" class="body">Continue on HealthVer; smaller learning rate</text>
+  <text x="118" y="518" class="note">Starts at 2 × 10⁻⁶; up to 5 epochs</text>
+  <text x="118" y="579" class="result">Best fine-tuned checkpoint: epoch 3</text>
+
+  <path d="M757 398 H838" stroke="#008b95" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+
+  <text x="893" y="240" class="card-title">2  Add label-aware link</text>
+  <text x="893" y="288" class="label">START FROM</text>
+  <text x="893" y="323" class="body">Best fine-tuned MultiVerS checkpoint</text>
+  <text x="893" y="355" class="note">(epoch 3)</text>
+  <path d="M1187 370 V405" stroke="#008b95" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+  <text x="893" y="447" class="label">MODIFY AND TRAIN</text>
+  <text x="893" y="482" class="body">Use label confidence to select evidence</text>
+  <text x="893" y="518" class="note">Learning rate 1 × 10⁻⁵; up to 5 epochs</text>
+  <text x="893" y="579" class="result">Best label-aware checkpoint: epoch 2</text>
+
+  <rect x="80" y="665" width="665" height="132" rx="20" fill="#ffffff" stroke="#ccdce9" stroke-width="3"/>
+  <rect x="855" y="665" width="665" height="132" rx="20" fill="#ffffff" stroke="#d5e1ca" stroke-width="3"/>
+  <text x="111" y="714" class="panel">What changes?</text>
+  <text x="111" y="755" class="body">Same model structure; weights are adjusted.</text>
+  <text x="886" y="714" class="panel">What changes?</text>
+  <text x="886" y="755" class="body">New link: label probabilities → evidence selector.</text>
+
+  <text x="800" y="858" class="subtitle" text-anchor="middle">On the HealthVer test set, fine-tuned MultiVerS performed best.</text>
+</svg>
